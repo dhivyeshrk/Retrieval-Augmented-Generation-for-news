@@ -1,0 +1,640 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+    <channel>
+        <title>NYT > Technology</title>
+        <link>https://www.nytimes.com/section/technology</link>
+        <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" rel="self" type="application/rss+xml"/>
+        <description/>
+        <language>en-us</language>
+        <copyright>Copyright 2024 The New York Times Company</copyright>
+        <lastBuildDate>Fri, 12 Jan 2024 18:32:53 +0000</lastBuildDate>
+        <pubDate>Fri, 12 Jan 2024 17:57:48 +0000</pubDate>
+        <image>
+            <title>NYT > Technology</title>
+            <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+            <link>https://www.nytimes.com/section/technology</link>
+        </image>
+        <item>
+            <title>$4 Billion of New Bitcoin ETFs Change Hands in First Trading Day</title>
+            <link>https://www.nytimes.com/2024/01/11/technology/bitcoin-etf-trading.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/11/technology/bitcoin-etf-trading.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/11/technology/bitcoin-etf-trading.html" rel="standout"/>
+            <description>The products, known as exchange-traded funds, were approved by federal regulators this week, a watershed moment for the crypto industry.</description>
+            <dc:creator>David Yaffe-Bellany</dc:creator>
+            <pubDate>Thu, 11 Jan 2024 22:05:43 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Bitcoin (Currency)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Nasdaq Composite Index</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BlackRock Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Coinbase Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Securities and Exchange Commission</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gensler, Gary S</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/11/multimedia/11bitcoin-etf-sub-wzgb/11bitcoin-etf-sub-wzgb-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Hiroko Masuike/The New York Times</media:credit>
+            <media:description>Eleven exchange-traded funds tied to Bitcoin started trading on Wall Street on Thursday, a day after federal regulators authorized them.</media:description>
+        </item>
+        <item>
+            <title>AI and Education: Will Chatbots Soon Tutor Your Children?</title>
+            <link>https://www.nytimes.com/2024/01/11/technology/ai-chatbots-khan-education-tutoring.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/11/technology/ai-chatbots-khan-education-tutoring.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/11/technology/ai-chatbots-khan-education-tutoring.html" rel="standout"/>
+            <description>New A.I. tools could enable a Silicon Valley dream: bots that customize learning for pupils. Prior attempts have not lived up to the hype.</description>
+            <dc:creator>Natasha Singer</dc:creator>
+            <pubDate>Thu, 11 Jan 2024 10:00:33 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Learning</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">ChatGPT</category>
+            <category domain="">tutoring bots</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+            <category domain="">education technology</category>
+            <category domain="">Khanmigo</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+            <category domain="">personalized learning</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Khan Academy</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Khan Lab School</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khan, Sal (1976- )</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/04/multimedia/00tutoring-bots-khan-gwvp/00tutoring-bots-khan-gwvp-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Mike Kai Chen for The New York Times</media:credit>
+            <media:description>Sal Khan, the chief executive of Khan Academy, predicted last year that A.I. tutoring bots would soon revolutionize education. Big Tech executives have similar visions.</media:description>
+        </item>
+        <item>
+            <title>U.S. Criminally Charges EBay in Cyberstalking Case</title>
+            <link>https://www.nytimes.com/2024/01/11/technology/ebay-cyberstalking-charges.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/11/technology/ebay-cyberstalking-charges.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/11/technology/ebay-cyberstalking-charges.html" rel="standout"/>
+            <description>The case involves eBay employees trying to intimidate a Massachusetts couple who write and produce an e-commerce newsletter. The company will pay a criminal penalty of $3 million.</description>
+            <dc:creator>David Streitfeld</dc:creator>
+            <pubDate>Fri, 12 Jan 2024 02:28:18 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">eBay Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberharassment</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Threats and Threatening Messages</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Stalking (Crime)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Deferred Prosecution Agreements</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Baugh, James</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wenig, Devin N</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/11/business/11EBAY/11EBAY-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Brian Snyder/Reuters</media:credit>
+            <media:description>The Justice Department charged eBay on Thursday with stalking, witness tampering and obstruction of justice, stemming from actions taken by the company in 2019 to undermine and silence David and Ina Steiner.</media:description>
+        </item>
+        <item>
+            <title>Discord Cuts 17% of Workers in Latest Tech Layoffs</title>
+            <link>https://www.nytimes.com/2024/01/11/technology/discord-tech-layoffs.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/11/technology/discord-tech-layoffs.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/11/technology/discord-tech-layoffs.html" rel="standout"/>
+            <description>In an internal memo, Discord said it had grown five times its size since 2020.</description>
+            <dc:creator>Mike Isaac</dc:creator>
+            <pubDate>Thu, 11 Jan 2024 19:33:09 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer and Video Games</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Discord Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Citron, Jason</category>
+            <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/01/11/business/11DISCORD-SUB/11DISCORD-SUB-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Gabby Jones/Bloomberg</media:credit>
+            <media:description>Discord’s layoffs came amid a string of cuts in the tech industry.</media:description>
+        </item>
+        <item>
+            <title>Why Casey Left Substack, Elon Musk and Drugs, and an A.I. Antibiotic Discovery</title>
+            <link>https://www.nytimes.com/2024/01/12/podcasts/hard-fork-substack-controversy-musk-drugs.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/12/podcasts/hard-fork-substack-controversy-musk-drugs.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/12/podcasts/hard-fork-substack-controversy-musk-drugs.html" rel="standout"/>
+            <description>It’s a drug episode.</description>
+            <dc:creator>Kevin Roose, Casey Newton, Davis Land, Rachel Cohn, Jen Poyant, Alyssa Moxley, Dan Powell, Marion Lozano, Diane Wong and Pat McCusker</dc:creator>
+            <pubDate>Fri, 12 Jan 2024 10:02:26 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Substack Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wall Street Journal</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Massachusetts Institute of Technology</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Harvard University</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Antibiotics</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Neo Nazi Groups</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/12/podcasts/12HF-leaving-substack/12HF-leaving-substack-mediumSquareAt3X-v2.jpg" width="1800"/>
+            <media:credit>Photo Illustration by The New York Times; Image: AnthonyRosenberg, via Getty Images</media:credit>
+        </item>
+        <item>
+            <title>Hertz Sells 20,000 Electric Cars After Being Burned by Tesla’s Price Cuts</title>
+            <link>https://www.nytimes.com/2024/01/11/business/hertz-electric-vehicles-tesla.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/11/business/hertz-electric-vehicles-tesla.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/11/business/hertz-electric-vehicles-tesla.html" rel="standout"/>
+            <description>The rental car company blamed the sharp drop in the value of electric vehicles and higher repair costs for its decision to sell 20,000 cars.</description>
+            <dc:creator>Jack Ewing</dc:creator>
+            <pubDate>Thu, 11 Jan 2024 22:32:11 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Renting and Leasing</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Fuel Efficiency</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hertz Global Holdings Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tesla Motors Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barrasso, John</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/11/business/11hertz-ev/11hertz-ev-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Brendan McDermid/Reuters</media:credit>
+            <media:description>Tesla vehicles make up the largest share of Hertz’s electric fleet, but they plunged in value after the carmaker cut prices by nearly one-third in 2023.</media:description>
+        </item>
+        <item>
+            <title>Federal Regulator Questions Carmakers About Unwanted Tracking via Their Apps</title>
+            <link>https://www.nytimes.com/2024/01/11/technology/fcc-car-apps-stalking.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/11/technology/fcc-car-apps-stalking.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/11/technology/fcc-car-apps-stalking.html" rel="standout"/>
+            <description>The Federal Communications Commission is concerned about abusive partners using connected car apps to harass and track their victims.</description>
+            <dc:creator>Kashmir Hill</dc:creator>
+            <pubDate>Thu, 11 Jan 2024 19:10:04 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Stalking (Crime)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Domestic Violence</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Communications Commission</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rosenworcel, Jessica</category>
+            <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/01/11/multimedia/11FCC_Cars-tlgv/11FCC_Cars-tlgv-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Mike Blake/Reuters</media:credit>
+            <media:description>The Federal Communications Commission sent letters to nine of the largest automakers, asking for more information about their connected car apps and whether the companies had processes in place to assist abuse victims.</media:description>
+        </item>
+        <item>
+            <title>No, Taylor Swift no está vendiendo ollas Le Creuset</title>
+            <link>https://www.nytimes.com/es/2024/01/11/espanol/ciencia-y-tecnologia/taylor-swift-le-creuset.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/es/2024/01/11/espanol/ciencia-y-tecnologia/taylor-swift-le-creuset.html</guid>
+            <atom:link href="https://www.nytimes.com/es/2024/01/11/espanol/ciencia-y-tecnologia/taylor-swift-le-creuset.html" rel="standout"/>
+            <description>El supuesto patrocinio de Swift a los productos de la empresa, que ha aparecido en anuncios publicados en Facebook y otros medios, es falso.</description>
+            <dc:creator>Tiffany Hsu and Yiwen Lu</dc:creator>
+            <pubDate>Thu, 11 Jan 2024 08:00:19 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Celebrities</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Voice and Speech</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swift, Taylor</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Le Creuset of America</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/08/multimedia/00swift-AI-vkqz-esp/00swift-AI-vkqz-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Jutharat Pinyodoonyachet para The New York Times</media:credit>
+            <media:description>Hola, soy yo. Yo no soy el problema.</media:description>
+        </item>
+        <item>
+            <title>Google Cuts Hundreds of Jobs in Engineering and Other Divisions</title>
+            <link>https://www.nytimes.com/2024/01/11/technology/google-layoffs.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/11/technology/google-layoffs.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/11/technology/google-layoffs.html" rel="standout"/>
+            <description>The company, which has been working to trim expenses, laid off employees who worked on core engineering, the Google Assistant product and hardware such as the Pixel phone.</description>
+            <dc:creator>Nico Grant</dc:creator>
+            <pubDate>Thu, 11 Jan 2024 18:50:02 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Engineering and Engineers</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alphabet Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/10/multimedia/10google-layoffs-02-fmjh/10google-layoffs-02-fmjh-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Jim Wilson/The New York Times</media:credit>
+            <media:description>Google had 182,000 employees as of Sept. 30.</media:description>
+        </item>
+        <item>
+            <title>SEC Approves New Bitcoin ETFs, in Boon for Crypto Industry</title>
+            <link>https://www.nytimes.com/2024/01/10/technology/sec-bitcoin-approval-exchange-traded-funds.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/10/technology/sec-bitcoin-approval-exchange-traded-funds.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/10/technology/sec-bitcoin-approval-exchange-traded-funds.html" rel="standout"/>
+            <description>The Securities and Exchange Commission authorized financial firms to offer a Bitcoin investment product that some hope will accelerate adoption of the technology.</description>
+            <dc:creator>David Yaffe-Bellany</dc:creator>
+            <pubDate>Wed, 10 Jan 2024 23:06:41 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Bitcoin (Currency)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Exchange Traded Funds</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Securities and Exchange Commission</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gensler, Gary S</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/10/multimedia/00bitcoin-etf-fcwk/00bitcoin-etf-fcwk-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>T.J. Kirkpatrick for The New York Times</media:credit>
+            <media:description>The Washington offices of the Securities and Exchange Commission, which approved 11 applications to offer exchange-traded funds tied to Bitcoin. </media:description>
+        </item>
+        <item>
+            <title>Amazon Cuts Hundreds of Jobs at Studios and Twitch</title>
+            <link>https://www.nytimes.com/2024/01/10/technology/amazon-layoffs-studios-twitch.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/10/technology/amazon-layoffs-studios-twitch.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/10/technology/amazon-layoffs-studios-twitch.html" rel="standout"/>
+            <description>The layoffs add to a growing number of cuts in the tech industry this past year.</description>
+            <dc:creator>Yiwen Lu</dc:creator>
+            <pubDate>Wed, 10 Jan 2024 19:31:32 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Metro-Goldwyn-Mayer Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitch Interactive Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clancy, Dan (1964- )</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/10/business/10amazon-layoffs/10amazon-layoffs-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>David Paul Morris/Bloomberg</media:credit>
+            <media:description>Twitch, a video streaming platform, will cut just over 500 roles, or 35 percent of its work force.</media:description>
+        </item>
+        <item>
+            <title>OpenAI Unveils App Store for Customized Versions of ChatGPT</title>
+            <link>https://www.nytimes.com/2024/01/10/technology/openai-app-store-chatgpt.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/10/technology/openai-app-store-chatgpt.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/10/technology/openai-app-store-chatgpt.html" rel="standout"/>
+            <description>People who subscribe to OpenAI’s ChatGPT Plus service will be able to browse the new store for tailored chatbots that perform different tasks.</description>
+            <dc:creator>Cade Metz</dc:creator>
+            <pubDate>Wed, 10 Jan 2024 19:01:29 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">ChatGPT</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Software</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/10/business/10gpt-store/10gpt-store-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Jackie Molloy for The New York Times</media:credit>
+            <media:description>People who spend $20 a month for a subscription to OpenAI’s ChatGPT Plus service can browse the new GPT Store for custom chatbots that provide a wide array of services.</media:description>
+        </item>
+        <item>
+            <title>The Best and Worst of Tech: Smartphones, Self-Driving Cars, More</title>
+            <link>https://www.nytimes.com/2024/01/10/technology/personaltech/tech-smartphones-self-driving-cars.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/10/technology/personaltech/tech-smartphones-self-driving-cars.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/10/technology/personaltech/tech-smartphones-self-driving-cars.html" rel="standout"/>
+            <description>The best tech, from universal power charging to foldable phones, solved practical problems. But the worst tech, including self-driving cars and cryptocurrency, put us in harm’s way.</description>
+            <dc:creator>Brian X. Chen</dc:creator>
+            <pubDate>Wed, 10 Jan 2024 14:00:11 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Driverless and Semiautonomous Vehicles</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Text Messaging</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">iPhone</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cruise LLC</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Two Thousand Twenty Four</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Wireless Communications</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Two Thousand Twenty Three</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Cellular Telephones</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">HK FTX Trading Ltd (Futures Exchange)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Waymo</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bankman-Fried, Sam</category>
+        </item>
+        <item>
+            <title>Microsoft Debates What to Do With A.I. Lab in China</title>
+            <link>https://www.nytimes.com/2024/01/10/technology/microsoft-china-ai-lab.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/10/technology/microsoft-china-ai-lab.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/10/technology/microsoft-china-ai-lab.html" rel="standout"/>
+            <description>Amid U.S.-China tensions, the company has faced questions over whether operating an advanced research lab in Beijing is politically tenable.</description>
+            <dc:creator>Karen Weise, Cade Metz and David McCabe</dc:creator>
+            <pubDate>Fri, 12 Jan 2024 00:38:14 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Software</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Laboratories and Scientific Equipment</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Vision</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gates, Bill</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lee, Kai-Fu</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nadella, Satya</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Bradford L</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/04/multimedia/00microsoft-china-top-fmkz/00microsoft-china-top-fmkz-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Greg Baker/Agence France-Presse — Getty Images</media:credit>
+            <media:description>A screen outside a Beijing shopping mall showed news footage of Bill Gates, Microsoft’s co-founder, meeting President Xi Jinping in June.</media:description>
+        </item>
+        <item>
+            <title>The Next Front in the U.S.-China Battle Over Chips</title>
+            <link>https://www.nytimes.com/2024/01/10/technology/risc-v-china-united-states-chips-security.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/10/technology/risc-v-china-united-states-chips-security.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/10/technology/risc-v-china-united-states-chips-security.html" rel="standout"/>
+            <description>A U.S.-born chip technology called RISC-V has become critical to China’s ambitions. Washington is debating whether and how to limit the technology.</description>
+            <dc:creator>Don Clark and Ana Swanson</dc:creator>
+            <pubDate>Wed, 10 Jan 2024 10:01:26 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Open-Source Software</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/12/business/09CHIPS-RISCV/09CHIPS-RISCV-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Nick Little</media:credit>
+        </item>
+        <item>
+            <title>Editor of The Los Angeles Times Steps Down</title>
+            <link>https://www.nytimes.com/2024/01/09/business/media/la-times-editor-resigns.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/09/business/media/la-times-editor-resigns.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/09/business/media/la-times-editor-resigns.html" rel="standout"/>
+            <description>Kevin Merida, who took over the job in 2021, said in an internal note that his last day would be on Friday.</description>
+            <dc:creator>Benjamin Mullin</dc:creator>
+            <pubDate>Tue, 09 Jan 2024 22:09:31 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Los Angeles Times</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Merida, Kevin (1957- )</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/09/business/09latimes/09latimes-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Francine Orr/Los Angeles Times, via Getty Images</media:credit>
+            <media:description>Kevin Merida, executive editor of The Los Angeles Times.</media:description>
+        </item>
+        <item>
+            <title>A.I. Giant Tied to China Under Scrutiny</title>
+            <link>https://www.nytimes.com/2024/01/09/us/politics/ai-china-uae-g42.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/09/us/politics/ai-china-uae-g42.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/09/us/politics/ai-china-uae-g42.html" rel="standout"/>
+            <description>A congressional committee made the demand of the Commerce Department after The Times reported on concerns among U.S. intelligence officials over the Emirati company, G42.</description>
+            <dc:creator>Edward Wong, Mark Mazzetti and Paul Mozur</dc:creator>
+            <pubDate>Tue, 09 Jan 2024 12:36:40 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yitu Technology</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ToTok (Mobile App)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Dark Matter LLC</category>
+            <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/01/10/multimedia/00JPdc-g42-2-print-bpwl/00dc-g42-01-bpwl-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>U.A.E. Presidential Court, via EPA/Shutterstock</media:credit>
+            <media:description>Sheikh Tahnoon bin Zayed, center, the national security adviser of the Emirates, oversees the artificial intelligence giant G42.</media:description>
+        </item>
+        <item>
+            <title>No, That’s Not Taylor Swift Peddling Le Creuset Cookware</title>
+            <link>https://www.nytimes.com/2024/01/09/technology/taylor-swift-le-creuset-ai-deepfake.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/09/technology/taylor-swift-le-creuset-ai-deepfake.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/09/technology/taylor-swift-le-creuset-ai-deepfake.html" rel="standout"/>
+            <description>The singer did not promote a giveaway of the popular cookware, but an artificially generated version of her voice suggested otherwise.</description>
+            <dc:creator>Tiffany Hsu and Yiwen Lu</dc:creator>
+            <pubDate>Tue, 09 Jan 2024 19:44:04 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Celebrities</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Voice and Speech</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swift, Taylor</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Le Creuset of America</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Cookware</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/08/multimedia/00swift-AI-vkqz/00swift-AI-vkqz-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Jutharat Pinyodoonyachet for The New York Times</media:credit>
+            <media:description>It’s me, hi, I’m not the problem.</media:description>
+        </item>
+        <item>
+            <title>The New Space Race Is Causing New Pollution Problems</title>
+            <link>https://www.nytimes.com/2024/01/09/science/rocket-pollution-spacex-satellites.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/09/science/rocket-pollution-spacex-satellites.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/09/science/rocket-pollution-spacex-satellites.html" rel="standout"/>
+            <description>Earth’s stratosphere has never seen the amounts of emissions and waste from rockets and satellites that a booming space economy will leave behind.</description>
+            <dc:creator>Shannon Hall</dc:creator>
+            <pubDate>Tue, 09 Jan 2024 12:15:18 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Fuel Emissions (Transportation)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Ozone</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Radiation</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Waste Materials and Disposal</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starlink Satellite Constellation (SpaceX)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kuiper Systems (Amazon.com Inc)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OneWeb Inc</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/09/science/09SCI-ROCKET-POLLUTION-ILLO/09SCI-ROCKET-POLLUTION-ILLO-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Anuj Shrestha</media:credit>
+        </item>
+        <item>
+            <title>How Astronomers Are Saving Astronomy From Satellites — For Now</title>
+            <link>https://www.nytimes.com/2024/01/09/science/astronomy-telescopes-satellites-spacex-starlink.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/09/science/astronomy-telescopes-satellites-spacex-starlink.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/09/science/astronomy-telescopes-satellites-spacex-starlink.html" rel="standout"/>
+            <description>Even the most powerful telescopes are in peril as orbits above Earth fill with thousands of new satellites. But scientists aren’t ready to give up the night sky.</description>
+            <dc:creator>Lyndie Chiou</dc:creator>
+            <pubDate>Tue, 09 Jan 2024 12:15:43 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Telescopes and Observatories</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starlink Satellite Constellation (SpaceX)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Science Foundation</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kuiper Systems (Amazon.com Inc)</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/09/science/09-SCI-TELESCOPE-ILLO/09-SCI-TELESCOPE-ILLO-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Anuj Shrestha</media:credit>
+        </item>
+        <item>
+            <title>OpenAI Says New York Times Lawsuit Against It Is ‘Without Merit’</title>
+            <link>https://www.nytimes.com/2024/01/08/technology/openai-new-york-times-lawsuit.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/08/technology/openai-new-york-times-lawsuit.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/08/technology/openai-new-york-times-lawsuit.html" rel="standout"/>
+            <description>The artificial intelligence start-up said that it collaborated with news organizations and that The Times, which accused it of copyright infringement, was not telling the full story.</description>
+            <dc:creator>Cade Metz</dc:creator>
+            <pubDate>Tue, 09 Jan 2024 18:55:26 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Copyrights and Copyright Violations</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">ChatGPT</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+            <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2024/01/08/multimedia/08openai-cwqb/08openai-cwqb-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Dado Ruvic/Reuters</media:credit>
+            <media:description>OpenAI said in a blog post that a New York Times lawsuit accusing it of copyright infringement did not tell the full story of how OpenAI and its technologies, like the ChatGPT chatbot, operated.</media:description>
+        </item>
+        <item>
+            <title>Unity Software to Cut 25% of Its Work Force</title>
+            <link>https://www.nytimes.com/2024/01/08/technology/unity-software-job-cuts.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/08/technology/unity-software-job-cuts.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/08/technology/unity-software-job-cuts.html" rel="standout"/>
+            <description>The cuts follow a tough year in which the tech industry laid off tens of thousands of workers.</description>
+            <dc:creator>Yiwen Lu</dc:creator>
+            <pubDate>Tue, 09 Jan 2024 01:00:32 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Xerox Corporation</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Riccitiello, John</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/08/multimedia/08unity-cuts-bjpf/08unity-cuts-bjpf-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Mike Blake/Reuters</media:credit>
+            <media:description>The software from Unity, based in San Francisco, powers the video games of developers.</media:description>
+        </item>
+        <item>
+            <title>Moon Lander Malfunctions After Launch, Raising Questions for NASA</title>
+            <link>https://www.nytimes.com/2024/01/08/science/nasa-moon-lander-malfunction-peregrine.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/08/science/nasa-moon-lander-malfunction-peregrine.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/08/science/nasa-moon-lander-malfunction-peregrine.html" rel="standout"/>
+            <description>After a flawless launch to orbit, the privately built robotic Peregrine lander is unlikely to reach the lunar surface because of a failure in its propulsion system.</description>
+            <dc:creator>Kenneth Chang</dc:creator>
+            <pubDate>Mon, 08 Jan 2024 21:36:28 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Astrobotic Technology Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Moon</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
+            <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/01/08/multimedia/08moon-lander-qmtg/08moon-lander-qmtg-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>NASA, via Agence France-Press — Getty Images</media:credit>
+            <media:description>The Astrobotic Peregrine lunar lander during preparations for launch in Florida in November.</media:description>
+        </item>
+        <item>
+            <title>TikTok Quietly Curtails Data Tool Used by Critics</title>
+            <link>https://www.nytimes.com/2024/01/08/business/media/tiktok-data-tool-israel-hamas-war.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/08/business/media/tiktok-data-tool-israel-hamas-war.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/08/business/media/tiktok-data-tool-israel-hamas-war.html" rel="standout"/>
+            <description>People and groups had harnessed the tool to scrutinize content on the site related to the Israel-Hamas war and other topics.</description>
+            <dc:creator>Sapna Maheshwari</dc:creator>
+            <pubDate>Mon, 08 Jan 2024 19:19:43 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Bytedance Technology Co Ltd</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Network Contagion Research Institute</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+            <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/01/08/business/08tiktok-tools-1/08tiktok-tools-1-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Matt Cardy/Getty Images</media:credit>
+            <media:description>TikTok’s Creative Center is meant to help advertisers track popular hashtags on the site.</media:description>
+        </item>
+        <item>
+            <title>How 2024 Will Be A.I.’s ‘Leap Forward’</title>
+            <link>https://www.nytimes.com/2024/01/08/technology/ai-robots-chatbots-2024.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/08/technology/ai-robots-chatbots-2024.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/08/technology/ai-robots-chatbots-2024.html" rel="standout"/>
+            <description>A.I. is set to advance at a rapid rate, becoming more powerful and spreading into the physical world.</description>
+            <dc:creator>Cade Metz</dc:creator>
+            <pubDate>Mon, 08 Jan 2024 10:01:08 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Two Thousand Twenty Four</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Altman, Samuel H</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Manyika, James</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cohere Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/09/business/00-ai-progress/00-ai-progress-mediumSquareAt3X.png" width="1800"/>
+            <media:credit>Victor Arce</media:credit>
+        </item>
+        <item>
+            <title>Help! An Employee of Budget Kept My Phone and I Can Prove It.</title>
+            <link>https://www.nytimes.com/2024/01/08/travel/help-an-employee-of-budget-kept-my-phone-and-i-can-prove-it.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/08/travel/help-an-employee-of-budget-kept-my-phone-and-i-can-prove-it.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/08/travel/help-an-employee-of-budget-kept-my-phone-and-i-can-prove-it.html" rel="standout"/>
+            <description>After misplacing his iPhone while returning a rental car, a traveler tracked down the device and presented strong evidence to the agency that a worker took it — to no avail.</description>
+            <dc:creator>Seth Kugel</dc:creator>
+            <pubDate>Mon, 08 Jan 2024 10:00:52 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Renting and Leasing</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Budget Rent A Car Corp</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Avis Budget Group Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alamo Rent a Car</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Robberies and Thefts</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">iPhone</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Lost and Found Property</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/07/travel/07tripped-up-illo/07tripped-up-illo-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Miguel Porlan</media:credit>
+        </item>
+        <item>
+            <title>Vulcan Rocket Aces Its First Launch</title>
+            <link>https://www.nytimes.com/2024/01/08/science/vulcan-rocket-launch-moon.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/08/science/vulcan-rocket-launch-moon.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/08/science/vulcan-rocket-launch-moon.html" rel="standout"/>
+            <description>Despite problems with one of its payloads, the new launcher’s flight was flawless, showing the potential of several vehicles that could chip away at SpaceX’s dominance.</description>
+            <dc:creator>Kenneth Chang</dc:creator>
+            <pubDate>Tue, 09 Jan 2024 19:10:23 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Astrobotic Technology Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Launch Alliance</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Moon</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/08/multimedia/08Vulcan-zvgq/08Vulcan-zvgq-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Chandan Khanna/Agence France-Presse — Getty Images</media:credit>
+            <media:description>United Launch Alliance’s (ULA) Vulcan Centaur, lifting off from Cape Canaveral, Florida, on Monday.</media:description>
+        </item>
+        <item>
+            <title>Dark Corners of the Web Offer a Glimpse at A.I.’s Nefarious Future</title>
+            <link>https://www.nytimes.com/2024/01/08/technology/ai-4chan-online-harassment.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/08/technology/ai-4chan-online-harassment.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/08/technology/ai-4chan-online-harassment.html" rel="standout"/>
+            <description>In the hands of anonymous internet users, A.I. tools can create waves of harassing and racist material. It’s already happening on the anonymous message board 4chan.</description>
+            <dc:creator>Stuart A. Thompson</dc:creator>
+            <pubDate>Mon, 08 Jan 2024 08:00:12 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberharassment</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">4chan</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Center for Countering Digital Hate</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+            <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/01/08/business/00ai-4chan/00ai-4chan-mediumSquareAt3X-v3.jpg" width="1800"/>
+            <media:credit>Daniel Zender</media:credit>
+        </item>
+        <item>
+            <title>Switching to a Flip Phone Helped Me Cut Down on My Smartphone Addiction</title>
+            <link>https://www.nytimes.com/2024/01/06/technology/smartphone-addiction-flip-phone.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/06/technology/smartphone-addiction-flip-phone.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/06/technology/smartphone-addiction-flip-phone.html" rel="standout"/>
+            <description>Was it inconvenient? Yes. Did T9 texting drive me crazy? Definitely. Was it worth doing? Absolutely.</description>
+            <dc:creator>Kashmir Hill</dc:creator>
+            <pubDate>Sat, 06 Jan 2024 15:58:08 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">iPhone</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Text Messaging</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Brain</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Addiction (Psychology)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/07/multimedia/07FLIPPHONE-fvgb/07FLIPPHONE-fvgb-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Photo illustration by Plamen Petkov for The New York Times</media:credit>
+        </item>
+        <item>
+            <title>U.S. Moves Closer to Filing Sweeping Antitrust Case Against Apple</title>
+            <link>https://www.nytimes.com/2024/01/05/technology/antitrust-apple-lawsuit-us.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/05/technology/antitrust-apple-lawsuit-us.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/05/technology/antitrust-apple-lawsuit-us.html" rel="standout"/>
+            <description>Justice Department officials are in the late stages of investigating the iPhone maker, focusing on how Apple has used its other products and services to defend against threats to its core business.</description>
+            <dc:creator>David McCabe and Tripp Mickle</dc:creator>
+            <pubDate>Fri, 05 Jan 2024 19:28:23 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">iPhone</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+            <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/01/04/multimedia/00apple-antitrust-iphones-tcpq/00apple-antitrust-iphones-tcpq-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Karsten Moran for The New York Times</media:credit>
+            <media:description>The Justice Department is focused on how Apple has used its control over the iPhone’s software and hardware to make its devices and services work better together.</media:description>
+        </item>
+    </channel>
+</rss>
