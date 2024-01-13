@@ -6,7 +6,6 @@ class NYTimesAPI:
         self.base_url = 'https://api.nytimes.com/svc/search/v2/articlesearch.json'
 
     def get_response(self, keyword):
-        # url = self.preprocess(self, keyword)
         url = f'{self.base_url}?q={keyword}&api-key={self.api_key}'
         response = req.get(url).json()
         if 'response' in response and 'docs' in response['response']:
@@ -16,15 +15,6 @@ class NYTimesAPI:
             lead_paragraph = docs[0].get('lead_paragraph', '')
             result = abstract + ' ' + snippet + ' ' + lead_paragraph
             return result
-        return None
-
-    @staticmethod
-    def preprocess(self, original_url):
-        # Extract text after the 6th slash
-        parts = original_url.split('/')
-        if len(parts) > 6:
-            processed_text = '/' + '/'.join(parts[6:])
-            return processed_text
         return None
 
 
