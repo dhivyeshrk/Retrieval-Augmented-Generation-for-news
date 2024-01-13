@@ -15,7 +15,6 @@ class XMLParser:
     def extract_information(self):
         if self.root is None:
             raise ValueError("XML not parsed. Call parse_xml() first.")
-
         # Iterate through each 'item' element and extract information
         for item in self.root.findall('.//item'):
             title = item.find('title').text
@@ -35,10 +34,11 @@ class XMLParser:
 
         return self.data
 
-    # Example usage
-# xml_file_path = "news_xml_files/Health.xml"
-# xml_parser = XMLParser(xml_file_path)
-# xml_parser.parse_xml()
-# result = xml_parser.extract_information()
-# for res in result:
-#     print(res)
+
+if __name__ == '__main__':
+    xml_file_path = "news_xml_files/Health.xml"
+    xml_parser = XMLParser(xml_file_path)
+    xml_parser.parse_xml()
+    result = xml_parser.extract_information()
+    for res in result:
+        print(res)
