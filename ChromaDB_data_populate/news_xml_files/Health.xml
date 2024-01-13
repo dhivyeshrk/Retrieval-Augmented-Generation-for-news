@@ -1,0 +1,423 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+    <channel>
+        <title>NYT > Health</title>
+        <link>https://www.nytimes.com/section/health</link>
+        <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Health.xml" rel="self" type="application/rss+xml"/>
+        <description/>
+        <language>en-us</language>
+        <copyright>Copyright 2024 The New York Times Company</copyright>
+        <lastBuildDate>Fri, 12 Jan 2024 18:35:57 +0000</lastBuildDate>
+        <pubDate>Fri, 12 Jan 2024 17:58:45 +0000</pubDate>
+        <image>
+            <title>NYT > Health</title>
+            <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+            <link>https://www.nytimes.com/section/health</link>
+        </image>
+        <item>
+            <title>Looming Starvation in Gaza Shows Resurgence of Civilian Sieges in Warfare</title>
+            <link>https://www.nytimes.com/2024/01/11/health/gaza-israel-hunger-starvation.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/11/health/gaza-israel-hunger-starvation.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/11/health/gaza-israel-hunger-starvation.html" rel="standout"/>
+            <description>A U.N.-affiliated panel said the territory could tip into famine very soon. International laws to protect people from human-made famines offer little help.</description>
+            <dc:creator>Stephanie Nolen</dc:creator>
+            <pubDate>Thu, 11 Jan 2024 17:01:44 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Famine</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Food Program</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Integrated Food Security Phase Classification</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/08/multimedia/XX-gaza-starvation-01-pmvb/XX-gaza-starvation-01-pmvb-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Saleh Salem/Reuters</media:credit>
+            <media:description>Palestinians lined up to collect drinking water in Rafah, southern Gaza, last week.</media:description>
+        </item>
+        <item>
+            <title>Women With Depression During or After Pregnancy Face Greater Suicide Risk, Even Years Later</title>
+            <link>https://www.nytimes.com/2024/01/10/health/perinatal-depression-suicide.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/10/health/perinatal-depression-suicide.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/10/health/perinatal-depression-suicide.html" rel="standout"/>
+            <description>Two studies concluded that depression that began in pregnancy or soon after could have troubling implications for as long as 18 years.</description>
+            <dc:creator>Pam Belluck</dc:creator>
+            <pubDate>Thu, 11 Jan 2024 15:28:45 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-health</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Suicides and Suicide Attempts</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">JAMA Network Open</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BMJ (Journal)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/10/multimedia/10PerinatalDepression-kqzh/10PerinatalDepression-kqzh-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Travis Dove for The New York Times</media:credit>
+        </item>
+        <item>
+            <title>U.S. Diet Panel Adds Another Researcher With Alcohol Industry Ties</title>
+            <link>https://www.nytimes.com/2024/01/10/health/alcohol-health-harvard.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/10/health/alcohol-health-harvard.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/10/health/alcohol-health-harvard.html" rel="standout"/>
+            <description>After dropping two Harvard experts who had received industry support, the National Academies turned to a colleague with a similar background.</description>
+            <dc:creator>Roni Caryn Rabin</dc:creator>
+            <pubDate>Wed, 10 Jan 2024 15:28:46 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Alcoholic Beverages</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Heart</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Harvard University</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Academies of Sciences, Engineering and Medicine</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+            <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/01/09/multimedia/09alcohol-phqj/09alcohol-phqj-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Lauren Lancaster for The New York Times</media:credit>
+            <media:description>While it is indisputable that heavy drinking is bad for your health, some studies have found benefits in moderate drinking. Much of that research was done by scientists supported by the alcohol industry.</media:description>
+        </item>
+        <item>
+            <title>What Happens When There Is No Food: Experts Say Severe Malnutrition Could Set in Swiftly in Gaza</title>
+            <link>https://www.nytimes.com/2024/01/11/health/gaza-hunger-starvation.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/11/health/gaza-hunger-starvation.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/11/health/gaza-hunger-starvation.html" rel="standout"/>
+            <description>Nutrition experts say the progression from hunger to severe malnutrition can be rapid, especially in children.</description>
+            <dc:creator>Stephanie Nolen</dc:creator>
+            <pubDate>Thu, 11 Jan 2024 22:13:20 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Famine</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Malnutrition</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/05/multimedia/xx-starvation-explainer-01-vjhb/xx-starvation-explainer-01-vjhb-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Agence France-Presse — Getty Images</media:credit>
+            <media:description>Making bread at tents amid the rubble of a destroyed building in Rafah, in southern Gaza.</media:description>
+        </item>
+        <item>
+            <title>‘Gas-Station Heroin’ Sold as Dietary Supplement Alarms Health Officials</title>
+            <link>https://www.nytimes.com/2024/01/10/health/gas-station-heroin-tianeptine-addiction.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/10/health/gas-station-heroin-tianeptine-addiction.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/10/health/gas-station-heroin-tianeptine-addiction.html" rel="standout"/>
+            <description>Tianeptine, found at convenience stores, at smoke shops and online, can mimic an opioid. It is among a growing class of substances that are difficult to control.</description>
+            <dc:creator>Jan Hoffman</dc:creator>
+            <pubDate>Wed, 10 Jan 2024 23:03:43 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+            <category domain="">Tianeptine</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Dietary Supplements and Herbal Remedies</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Poisoning and Poisons</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Opioids and Opiates</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Addiction (Psychology)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/03/multimedia/00Gas-StationHeroin-01-zvlc/00Gas-StationHeroin-01-zvlc-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Hannah Beier for The New York Times</media:credit>
+            <media:description>Neptune’s Fix, a shot sold at convenience stores and gas stations that contains an ingredient called tianeptine, is part of a growing class of unregulated and potentially addictive products becoming more widely available.</media:description>
+        </item>
+        <item>
+            <title>An Ultrasound Experiment Tackles a Giant Problem in Brain Medicine</title>
+            <link>https://www.nytimes.com/2024/01/10/health/blood-brain-barrier-alzheimers-ultrsound.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/10/health/blood-brain-barrier-alzheimers-ultrsound.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/10/health/blood-brain-barrier-alzheimers-ultrsound.html" rel="standout"/>
+            <description>The effects of drugs that treat Alzheimer’s, cancer and other illnesses are often limited by the blood-brain barrier. A small study suggests a way forward.</description>
+            <dc:creator>Gina Kolata</dc:creator>
+            <pubDate>Wed, 10 Jan 2024 10:01:37 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Brain</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Ultrasonic Imaging and Sonograms</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Alzheimer's Disease</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Brain Cancer</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Aduhelm (Drug)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New England Journal of Medicine</category>
+        </item>
+        <item>
+            <title>Use of ADHD Drugs Surged During Pandemic, Study Finds</title>
+            <link>https://www.nytimes.com/2024/01/10/health/pandemic-adhd-drugs.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/10/health/pandemic-adhd-drugs.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/10/health/pandemic-adhd-drugs.html" rel="standout"/>
+            <description>Social media influencers and online marketing may have played a role, experts said.</description>
+            <dc:creator>Matt Richtel</dc:creator>
+            <pubDate>Wed, 10 Jan 2024 17:25:09 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-health</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Buprenorphine (Drug)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Telemedicine</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/10/science/10ADHDincrease/10ADHDincrease-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Jenny Kane/Associated Press</media:credit>
+            <media:description>During the coronavirus pandemic, prescriptions of stimulants used to treat attention deficit hyperactivity disorder rose 30 percent among people ages 20 to 39, while prescriptions of non-stimulant A.D.H.D. medications rose 81 percent.</media:description>
+        </item>
+        <item>
+            <title>F.D.A. Warned of Mental Side Effects from Asthma Drug, Singulair. Few Were Told.</title>
+            <link>https://www.nytimes.com/2024/01/09/health/fda-singulair-asthma-drug-warning.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/09/health/fda-singulair-asthma-drug-warning.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/09/health/fda-singulair-asthma-drug-warning.html" rel="standout"/>
+            <description>Singulair, now a generic, is still used by millions of people in the United States even after thousands of patients and dozens of studies have described harm.</description>
+            <dc:creator>Christina Jewett and Benjamin Mueller</dc:creator>
+            <pubDate>Wed, 10 Jan 2024 01:55:45 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Suicides and Suicide Attempts</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Asthma</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Allergies</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Obsessive-Compulsive Disorder</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Merck  Company Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+            <category domain="">Singulair</category>
+            <category domain="">montelukast</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Johns Hopkins Center for Drug Safety and Effectiveness</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Organon Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-negative-sad</category>
+            <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2023/10/12/multimedia/XXSingulair-promo-vgkc/XXSingulair-promo-vgkc-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Niki Chan Wylie for The New York Times</media:credit>
+        </item>
+        <item>
+            <title>Ancient Skeletons Give Clues to Modern Medical Mysteries</title>
+            <link>https://www.nytimes.com/2024/01/10/science/ancient-human-genes-multiple-sclerosis.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/10/science/ancient-human-genes-multiple-sclerosis.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/10/science/ancient-human-genes-multiple-sclerosis.html" rel="standout"/>
+            <description>DNA fragments from thousands of years ago are providing insights into multiple sclerosis, diabetes, schizophrenia and other illnesses.</description>
+            <dc:creator>Carl Zimmer</dc:creator>
+            <pubDate>Wed, 10 Jan 2024 16:00:09 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Multiple Sclerosis</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Nomadic People</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Autoimmune Diseases</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/10/science/10ancient-medicine-01/10ancient-medicine-01-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Michal Podsiadlo</media:credit>
+            <media:description>A 4,000-year-old skeleton of a Yamnaya person found in Bulgaria.</media:description>
+        </item>
+        <item>
+            <title>The Billionaires Spending a Fortune to Lure Scientists Away From Universities</title>
+            <link>https://www.nytimes.com/2024/01/12/business/arena-bioworks-scientists-harvard-mit.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/12/business/arena-bioworks-scientists-harvard-mit.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/12/business/arena-bioworks-scientists-harvard-mit.html" rel="standout"/>
+            <description>Arena BioWorks is promising big paydays to nearly 100 researchers from Harvard, M.I.T. and other prestigious institutions.</description>
+            <dc:creator>Rob Copeland</dc:creator>
+            <pubDate>Fri, 12 Jan 2024 10:00:42 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Arena BioWorks</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pagliuca, Stephen G</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dell, Michael S</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boston (Mass)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/09/multimedia/00arena-01-pkcj/00arena-01-pkcj-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Bob O'Connor for The New York Times</media:credit>
+            <media:description>Among the early backers of Arena BioWorks are Stephen Pagliuca, the Boston Celtics owner, far left; and Thomas Cahill, a Boston venture capitalist, second from right. Stuart Schreiber, far right, a longtime Harvard-affiliated researcher, quit to be Arena’s lead scientist; and Keith Joung, seated, is among Arena’s newest hires.</media:description>
+        </item>
+        <item>
+            <title>Researchers Scramble to Keep Dog Aging Project Alive</title>
+            <link>https://www.nytimes.com/2024/01/11/health/dogs-longevity-aging.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/11/health/dogs-longevity-aging.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/11/health/dogs-longevity-aging.html" rel="standout"/>
+            <description>The National Institute on Aging may let funding lapse for a yearslong study of nearly 50,000 pet dogs, which could also offer insight into human health.</description>
+            <dc:creator>Emily Anthes</dc:creator>
+            <pubDate>Thu, 11 Jan 2024 10:01:35 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Dogs</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Pets</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Longevity</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Federation for Aging Research</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institute on Aging</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-health</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/16/multimedia/00DOGAGING-01-bktc/00DOGAGING-01-bktc-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Desiree Rios/The New York Times</media:credit>
+            <media:description>The Dog Aging Project includes 47,000 canines and counting, and the data are starting to stream in. But its funding, provided almost entirely by the National Institute on Aging, will expire in a few months.</media:description>
+        </item>
+        <item>
+            <title>Lloyd Austin’s Hidden Diagnosis: Why Some People Keep Serious Illnesses Private</title>
+            <link>https://www.nytimes.com/2024/01/10/well/family/hidden-cancer-lloyd-austin.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/10/well/family/hidden-cancer-lloyd-austin.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/10/well/family/hidden-cancer-lloyd-austin.html" rel="standout"/>
+            <description>Defense Secretary Lloyd J. Austin III is under scrutiny for concealing his prostate cancer diagnosis and treatment. But experts say it can be a common coping mechanism.</description>
+            <dc:creator>Catherine Pearson</dc:creator>
+            <pubDate>Thu, 11 Jan 2024 00:01:47 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Austin, Lloyd J III</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/10/multimedia/WELL-ILLNESS-SECRECY1-vjgm/WELL-ILLNESS-SECRECY1-vjgm-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Stefani Reynolds for The New York Times</media:credit>
+            <media:description>Defense Secretary Lloyd J. Austin III is known to guard his privacy fiercely.</media:description>
+        </item>
+        <item>
+            <title>We Are in a Big Covid Wave. But Just How Big?</title>
+            <link>https://www.nytimes.com/2024/01/10/upshot/covid-pandemic-wave.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/10/upshot/covid-pandemic-wave.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/10/upshot/covid-pandemic-wave.html" rel="standout"/>
+            <description>Wastewater data has become perhaps the best metric to track the spread of the virus in the U.S., but it’s an imperfect tool.</description>
+            <dc:creator>Francesca Paris</dc:creator>
+            <pubDate>Wed, 10 Jan 2024 10:01:41 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+            <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2024/01/09/multimedia/2024-01-06-covid-wastewater-index/2024-01-06-covid-wastewater-index-mediumSquareAt3X-v3.png" width="1000"/>
+            <media:credit>The New York Times</media:credit>
+        </item>
+        <item>
+            <title>New Year’s Resolutions for Dealing With Anxiety</title>
+            <link>https://www.nytimes.com/2024/01/09/well/mind/anxiety-new-years-resolutions.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/09/well/mind/anxiety-new-years-resolutions.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/09/well/mind/anxiety-new-years-resolutions.html" rel="standout"/>
+            <description>Here’s how to confront your fears and seek out new perspectives this year — no therapist required.</description>
+            <dc:creator>Christina Caron</dc:creator>
+            <pubDate>Tue, 09 Jan 2024 21:21:57 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">New Year</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2023/12/20/multimedia/ASKWELL-CALM3-bwjz/ASKWELL-CALM3-bwjz-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Eric Helgas for The New York Times</media:credit>
+            <media:description>Psychologists say that reaching for your goals despite feeling anxious is more important than avoiding feelings of anxiety.</media:description>
+        </item>
+        <item>
+            <title>The Income Gap Jeopardizing Retirement for Millions</title>
+            <link>https://www.nytimes.com/2024/01/06/health/retirement-income-middle-class.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/06/health/retirement-income-middle-class.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/06/health/retirement-income-middle-class.html" rel="standout"/>
+            <description>Americans in the lower middle class are losing ground financially, researchers have found.</description>
+            <dc:creator>Paula Span</dc:creator>
+            <pubDate>Sat, 06 Jan 2024 13:38:08 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Retirement</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Income</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Security (US)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+            <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/01/09/multimedia/06SCI-SPAN-qpzw/06SCI-SPAN-qpzw-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Jim Wilson/The New York Times</media:credit>
+            <media:description>Monique Louvigny, who lives in Vallejo, Calif., was laid off at age 57 and now freelances as an events coordinator. Her income has fallen to less than $30,000 a year. </media:description>
+        </item>
+        <item>
+            <title>F.D.A. to Issue First Approval for Mass Drug Imports to States from Canada</title>
+            <link>https://www.nytimes.com/2024/01/05/health/drug-imports-canada-florida.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/05/health/drug-imports-canada-florida.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/05/health/drug-imports-canada-florida.html" rel="standout"/>
+            <description>The agency authorized Florida to purchase medicines directly from wholesalers in Canada, where prices are far cheaper. Pharmaceutical companies oppose the plan.</description>
+            <dc:creator>Christina Jewett and Sheryl Gay Stolberg</dc:creator>
+            <pubDate>Fri, 05 Jan 2024 18:51:51 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pharmaceutical Research and Manufacturers of America</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/03/science/XXCanadian-Imports-01/XXCanadian-Imports-01-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Joe Raedle/Getty Images</media:credit>
+            <media:description>Florida will become the first state to import millions of dollars’ worth of medications from Canada.</media:description>
+        </item>
+        <item>
+            <title>Ozempic and Wegovy Users Had Less Risk of Suicidal Thoughts in Large Study</title>
+            <link>https://www.nytimes.com/2024/01/05/health/ozempic-wegovy-suicide-thoughts.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/05/health/ozempic-wegovy-suicide-thoughts.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/05/health/ozempic-wegovy-suicide-thoughts.html" rel="standout"/>
+            <description>The research, supported by the National Institutes of Health, may reassure some patients after a European drug safety agency raised concerns last year.</description>
+            <dc:creator>Gina Kolata</dc:creator>
+            <pubDate>Fri, 05 Jan 2024 12:59:01 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Obesity</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Diabetes</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Semaglutide (Drug)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Ozempic (Drug)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Suicides and Suicide Attempts</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature Medicine (Journal)</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/05/multimedia/05-wegovy-suicide-lbwc/05-wegovy-suicide-lbwc-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Hannah Beier/Reuters</media:credit>
+        </item>
+        <item>
+            <title>June Jackson Christmas, Pioneering Psychiatrist, Dies at 99</title>
+            <link>https://www.nytimes.com/2024/01/04/nyregion/june-jackson-christmas-dead.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/04/nyregion/june-jackson-christmas-dead.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/04/nyregion/june-jackson-christmas-dead.html" rel="standout"/>
+            <description>Dr. Christmas overcame race and gender barriers to run New York’s mental health agency under three mayors in the 1970s.</description>
+            <dc:creator>Sam Roberts</dc:creator>
+            <pubDate>Thu, 04 Jan 2024 20:25:51 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Christmas, June J</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychiatry and Psychiatrists</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Local Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Public Health Assn</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/05/multimedia/03christmas-01-kcbf-print1/03christmas-01-kcbf-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Charles Austen/The New York Times</media:credit>
+            <media:description>Dr. June Jackson Christmas spoke at a conference on nuclear disarmament at Riverside Church in Manhattan in 1981. She served as head of New York’s mental health agency for most of the 1970s.</media:description>
+        </item>
+        <item>
+            <title>Paxlovid Cuts Covid Death Risk. But Those Who Need It Are Not Taking It.</title>
+            <link>https://www.nytimes.com/2024/01/04/health/paxlovid-covid-treatment.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/04/health/paxlovid-covid-treatment.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/04/health/paxlovid-covid-treatment.html" rel="standout"/>
+            <description>With Covid deaths rising to about 1,500 per week, researchers question why Paxlovid use has remained low among high-risk patients.</description>
+            <dc:creator>Christina Jewett</dc:creator>
+            <pubDate>Sun, 07 Jan 2024 15:29:18 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Paxlovid (Drug)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pfizer Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+            <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2024/01/03/multimedia/03-Paxlovid-01-hfgb/03-Paxlovid-01-hfgb-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Wolfgang Rattay/Reuters</media:credit>
+            <media:description>High-risk patients who took Paxlovid early in their illness saw a 73 percent reduction in their risk of dying from Covid, but only 15 percent of eligible patients take it.</media:description>
+        </item>
+        <item>
+            <title>Citing Misinformation, Florida Health Official Calls for Halt to Covid Vaccines</title>
+            <link>https://www.nytimes.com/2024/01/03/health/covid-vaccines-florida.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/03/health/covid-vaccines-florida.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/03/health/covid-vaccines-florida.html" rel="standout"/>
+            <description>Federal health officials and other experts have repeatedly sought to counter erroneous comments about the vaccines by Dr. Joseph Ladapo, Florida’s surgeon general.</description>
+            <dc:creator>Apoorva Mandavilli</dc:creator>
+            <pubDate>Thu, 04 Jan 2024 14:49:03 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">RNA (Ribonucleic Acid)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">DNA (Deoxyribonucleic Acid)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ladapo, Joseph A</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/03/multimedia/03mRNA-mjbt/03mRNA-mjbt-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Frederic J. Brown/Agence France-Presse — Getty Images</media:credit>
+            <media:description>Florida’s Covid vaccination rates are among the lowest in the United States.</media:description>
+        </item>
+    </channel>
+</rss>

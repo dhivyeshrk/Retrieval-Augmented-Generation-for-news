@@ -1,0 +1,687 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+    <channel>
+        <title>NYT > Science</title>
+        <link>https://www.nytimes.com/section/science</link>
+        <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Science.xml" rel="self" type="application/rss+xml"/>
+        <description/>
+        <language>en-us</language>
+        <copyright>Copyright 2024 The New York Times Company</copyright>
+        <lastBuildDate>Fri, 12 Jan 2024 18:27:24 +0000</lastBuildDate>
+        <pubDate>Fri, 12 Jan 2024 17:58:45 +0000</pubDate>
+        <image>
+            <title>NYT > Science</title>
+            <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+            <link>https://www.nytimes.com/section/science</link>
+        </image>
+        <item>
+            <title>This Distant Planet Has a 350,000-Mile-Long Comet-Like Tail</title>
+            <link>https://www.nytimes.com/2024/01/12/science/wasp-69b-tail-planet.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/12/science/wasp-69b-tail-planet.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/12/science/wasp-69b-tail-planet.html" rel="standout"/>
+            <description>The stream of helium trailing WASP-69b, a “Hot Jupiter,” allows astronomers to study how planets lose their atmospheres.</description>
+            <dc:creator>Robin George Andrews</dc:creator>
+            <pubDate>Fri, 12 Jan 2024 10:02:07 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Stars and Galaxies</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Comets</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Astronomical Society</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Astrophysical Journal</category>
+        </item>
+        <item>
+            <title>New Origin Story for Tyrannosaurs Rex Suggested by Fossil</title>
+            <link>https://www.nytimes.com/2024/01/11/science/new-tyrannosaur-species-fossil.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/11/science/new-tyrannosaur-species-fossil.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/11/science/new-tyrannosaur-species-fossil.html" rel="standout"/>
+            <description>Researchers say the species they named Tyrannosaurus mcraeensis predated the dinosaur era’s great predator.</description>
+            <dc:creator>Asher Elbein</dc:creator>
+            <pubDate>Thu, 11 Jan 2024 16:02:27 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Dinosaurs</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Fossils</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Paleontology</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Mexico</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Scientific Reports (Journal)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-animals</category>
+        </item>
+        <item>
+            <title>Scaly Fossil Is the Oldest-Known Piece of Skin</title>
+            <link>https://www.nytimes.com/2024/01/11/science/fossil-skin-oldest-lizard.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/11/science/fossil-skin-oldest-lizard.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/11/science/fossil-skin-oldest-lizard.html" rel="standout"/>
+            <description>The specimen came from a 289 million-year-old fossil deposit and might offer clues to how skin evolved.</description>
+            <dc:creator>Kate Golembiewski</dc:creator>
+            <pubDate>Thu, 11 Jan 2024 16:00:07 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Skin</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Fossils</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Paleontology</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Reptiles</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Current Biology (Journal)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-animals</category>
+        </item>
+        <item>
+            <title>Researchers Scramble to Keep Dog Aging Project Alive</title>
+            <link>https://www.nytimes.com/2024/01/11/health/dogs-longevity-aging.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/11/health/dogs-longevity-aging.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/11/health/dogs-longevity-aging.html" rel="standout"/>
+            <description>The National Institute on Aging may let funding lapse for a yearslong study of nearly 50,000 pet dogs, which could also offer insight into human health.</description>
+            <dc:creator>Emily Anthes</dc:creator>
+            <pubDate>Thu, 11 Jan 2024 10:01:35 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Dogs</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Pets</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Longevity</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Federation for Aging Research</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institute on Aging</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-health</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/16/multimedia/00DOGAGING-01-bktc/00DOGAGING-01-bktc-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Desiree Rios/The New York Times</media:credit>
+            <media:description>The Dog Aging Project includes 47,000 canines and counting, and the data are starting to stream in. But its funding, provided almost entirely by the National Institute on Aging, will expire in a few months.</media:description>
+        </item>
+        <item>
+            <title>Ancient Skeletons Give Clues to Modern Medical Mysteries</title>
+            <link>https://www.nytimes.com/2024/01/10/science/ancient-human-genes-multiple-sclerosis.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/10/science/ancient-human-genes-multiple-sclerosis.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/10/science/ancient-human-genes-multiple-sclerosis.html" rel="standout"/>
+            <description>DNA fragments from thousands of years ago are providing insights into multiple sclerosis, diabetes, schizophrenia and other illnesses.</description>
+            <dc:creator>Carl Zimmer</dc:creator>
+            <pubDate>Wed, 10 Jan 2024 16:00:09 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Multiple Sclerosis</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Nomadic People</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Autoimmune Diseases</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/10/science/10ancient-medicine-01/10ancient-medicine-01-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Michal Podsiadlo</media:credit>
+            <media:description>A 4,000-year-old skeleton of a Yamnaya person found in Bulgaria.</media:description>
+        </item>
+        <item>
+            <title>The Biggest Ape That Ever Lived Was Not Too Big to Fail</title>
+            <link>https://www.nytimes.com/2024/01/10/science/giant-ape-extinction.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/10/science/giant-ape-extinction.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/10/science/giant-ape-extinction.html" rel="standout"/>
+            <description>Fossil teeth reveal Gigantopithecus was doomed by a changing environment and an inflexible diet.</description>
+            <dc:creator>Jack Tamisiea</dc:creator>
+            <pubDate>Wed, 10 Jan 2024 16:53:02 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Monkeys and Apes</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Paleontology</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Fossils</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature (Journal)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Teeth and Dentistry</category>
+        </item>
+        <item>
+            <title>NASA Delays Artemis Astronaut Moon Missions</title>
+            <link>https://www.nytimes.com/2024/01/09/science/nasa-moon-artemis-spacex-delay.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/09/science/nasa-moon-artemis-spacex-delay.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/09/science/nasa-moon-artemis-spacex-delay.html" rel="standout"/>
+            <description>Artemis II, a trip around the moon, will now occur no earlier than September 2025 while a moon landing, Artemis III, will move to 2026.</description>
+            <dc:creator>Kenneth Chang</dc:creator>
+            <pubDate>Wed, 10 Jan 2024 03:04:22 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Artemis Program</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Moon</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/09/climate/09nasa-moon/09nasa-moon-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Chandan Khanna/Agence France-Presse — Getty Images</media:credit>
+            <media:description>The crew of Artemis II, from left: Victor Glover, pilot; Reid Wiseman, commander; Christina Hammock Koch, mission specialist; and the Canadian astronaut Jeremy Hansen, mission specialist, last year.</media:description>
+        </item>
+        <item>
+            <title>The New Space Race Is Causing New Pollution Problems</title>
+            <link>https://www.nytimes.com/2024/01/09/science/rocket-pollution-spacex-satellites.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/09/science/rocket-pollution-spacex-satellites.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/09/science/rocket-pollution-spacex-satellites.html" rel="standout"/>
+            <description>Earth’s stratosphere has never seen the amounts of emissions and waste from rockets and satellites that a booming space economy will leave behind.</description>
+            <dc:creator>Shannon Hall</dc:creator>
+            <pubDate>Tue, 09 Jan 2024 12:15:18 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Fuel Emissions (Transportation)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Ozone</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Radiation</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Waste Materials and Disposal</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starlink Satellite Constellation (SpaceX)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kuiper Systems (Amazon.com Inc)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OneWeb Inc</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/09/science/09SCI-ROCKET-POLLUTION-ILLO/09SCI-ROCKET-POLLUTION-ILLO-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Anuj Shrestha</media:credit>
+        </item>
+        <item>
+            <title>How Astronomers Are Saving Astronomy From Satellites — For Now</title>
+            <link>https://www.nytimes.com/2024/01/09/science/astronomy-telescopes-satellites-spacex-starlink.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/09/science/astronomy-telescopes-satellites-spacex-starlink.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/09/science/astronomy-telescopes-satellites-spacex-starlink.html" rel="standout"/>
+            <description>Even the most powerful telescopes are in peril as orbits above Earth fill with thousands of new satellites. But scientists aren’t ready to give up the night sky.</description>
+            <dc:creator>Lyndie Chiou</dc:creator>
+            <pubDate>Tue, 09 Jan 2024 12:15:43 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Telescopes and Observatories</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starlink Satellite Constellation (SpaceX)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Science Foundation</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kuiper Systems (Amazon.com Inc)</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/09/science/09-SCI-TELESCOPE-ILLO/09-SCI-TELESCOPE-ILLO-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Anuj Shrestha</media:credit>
+        </item>
+        <item>
+            <title>FEMA’s Disaster Map Is Getting Crowded</title>
+            <link>https://www.nytimes.com/2024/01/12/climate/fema-extreme-weather-climate.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/12/climate/fema-extreme-weather-climate.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/12/climate/fema-extreme-weather-climate.html" rel="standout"/>
+            <description>Each weekday morning, FEMA releases a map showing weather hazards around the country. It’s starting to get a little out of hand.</description>
+            <dc:creator>Christopher Flavelle</dc:creator>
+            <pubDate>Fri, 12 Jan 2024 15:14:00 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Snow and Snowstorms</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Emergency Management Agency</category>
+            <media:content height="1469" medium="image" url="https://static01.nyt.com/images/2024/01/11/multimedia/11CLI-FEMAMAPS-01-qgvk/11CLI-FEMAMAPS-01-qgvk-mediumSquareAt3X.jpg" width="1469"/>
+            <media:credit>FEMA</media:credit>
+            <media:description>FEMA’s national map showing hazards expected to start on Jan. 13, 2024, including variations of snow, wind, cold, rain and floods affecting most of the country.</media:description>
+        </item>
+        <item>
+            <title>The Billionaires Spending a Fortune to Lure Scientists Away From Universities</title>
+            <link>https://www.nytimes.com/2024/01/12/business/arena-bioworks-scientists-harvard-mit.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/12/business/arena-bioworks-scientists-harvard-mit.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/12/business/arena-bioworks-scientists-harvard-mit.html" rel="standout"/>
+            <description>Arena BioWorks is promising big paydays to nearly 100 researchers from Harvard, M.I.T. and other prestigious institutions.</description>
+            <dc:creator>Rob Copeland</dc:creator>
+            <pubDate>Fri, 12 Jan 2024 10:00:42 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Arena BioWorks</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pagliuca, Stephen G</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dell, Michael S</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boston (Mass)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/09/multimedia/00arena-01-pkcj/00arena-01-pkcj-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Bob O'Connor for The New York Times</media:credit>
+            <media:description>Among the early backers of Arena BioWorks are Stephen Pagliuca, the Boston Celtics owner, far left; and Thomas Cahill, a Boston venture capitalist, second from right. Stuart Schreiber, far right, a longtime Harvard-affiliated researcher, quit to be Arena’s lead scientist; and Keith Joung, seated, is among Arena’s newest hires.</media:description>
+        </item>
+        <item>
+            <title>Drought Touches a Quarter of Humanity, U.N. Says, Disrupting Lives Globally</title>
+            <link>https://www.nytimes.com/2024/01/11/climate/global-drought-food-hunger.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/11/climate/global-drought-food-hunger.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/11/climate/global-drought-food-hunger.html" rel="standout"/>
+            <description>The crisis, worsened partly by climate change, has been accompanied by soaring food prices and could have consequences for hunger, elections and migration worldwide.</description>
+            <dc:creator>Somini Sengupta</dc:creator>
+            <pubDate>Thu, 11 Jan 2024 21:50:27 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Malnutrition</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Agriculture Organization of the United Nations</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Insecurity</category>
+            <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2023/12/10/multimedia/00CLI-drought-01-gqkf/00CLI-drought-01-gqkf-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Claudia Morales/Reuters</media:credit>
+            <media:description>The shrinking Lake Titicaca, between Peru and Bolivia in the Andes, is Latin America’s largest freshwater basin.</media:description>
+        </item>
+        <item>
+            <title>Looming Starvation in Gaza Shows Resurgence of Civilian Sieges in Warfare</title>
+            <link>https://www.nytimes.com/2024/01/11/health/gaza-israel-hunger-starvation.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/11/health/gaza-israel-hunger-starvation.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/11/health/gaza-israel-hunger-starvation.html" rel="standout"/>
+            <description>A U.N.-affiliated panel said the territory could tip into famine very soon. International laws to protect people from human-made famines offer little help.</description>
+            <dc:creator>Stephanie Nolen</dc:creator>
+            <pubDate>Thu, 11 Jan 2024 17:01:44 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Famine</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Food Program</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Integrated Food Security Phase Classification</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/08/multimedia/XX-gaza-starvation-01-pmvb/XX-gaza-starvation-01-pmvb-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Saleh Salem/Reuters</media:credit>
+            <media:description>Palestinians lined up to collect drinking water in Rafah, southern Gaza, last week.</media:description>
+        </item>
+        <item>
+            <title>What Happens When There Is No Food: Experts Say Severe Malnutrition Could Set in Swiftly in Gaza</title>
+            <link>https://www.nytimes.com/2024/01/11/health/gaza-hunger-starvation.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/11/health/gaza-hunger-starvation.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/11/health/gaza-hunger-starvation.html" rel="standout"/>
+            <description>Nutrition experts say the progression from hunger to severe malnutrition can be rapid, especially in children.</description>
+            <dc:creator>Stephanie Nolen</dc:creator>
+            <pubDate>Thu, 11 Jan 2024 22:13:20 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Famine</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Malnutrition</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/05/multimedia/xx-starvation-explainer-01-vjhb/xx-starvation-explainer-01-vjhb-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Agence France-Presse — Getty Images</media:credit>
+            <media:description>Making bread at tents amid the rubble of a destroyed building in Rafah, in southern Gaza.</media:description>
+        </item>
+        <item>
+            <title>Rare Whale Off South Carolina Coast Is Expected to Die From Injuries</title>
+            <link>https://www.nytimes.com/2024/01/11/science/north-atlantic-right-whale-calf-boat.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/11/science/north-atlantic-right-whale-calf-boat.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/11/science/north-atlantic-right-whale-calf-boat.html" rel="standout"/>
+            <description>Efforts to reduce boat speed limits near the habitat of the critically endangered species have been unsuccessful, with fewer than 360 of the whales remaining.</description>
+            <dc:creator>John Yoon</dc:creator>
+            <pubDate>Thu, 11 Jan 2024 07:33:39 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Whales and Whaling</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Oceanic and Atmospheric Administration</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Coast (US)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/11/multimedia/11xp-whale-02/11xp-whale-02-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>NOAA/National Marine Fisheries Service</media:credit>
+            <media:description>A North Atlantic right whale mother, known as Juno, with its then-newborn calf off South Carolina in November. The calf is seriously injured and not expected to survive.</media:description>
+        </item>
+        <item>
+            <title>Women With Depression During or After Pregnancy Face Greater Suicide Risk, Even Years Later</title>
+            <link>https://www.nytimes.com/2024/01/10/health/perinatal-depression-suicide.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/10/health/perinatal-depression-suicide.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/10/health/perinatal-depression-suicide.html" rel="standout"/>
+            <description>Two studies concluded that depression that began in pregnancy or soon after could have troubling implications for as long as 18 years.</description>
+            <dc:creator>Pam Belluck</dc:creator>
+            <pubDate>Thu, 11 Jan 2024 15:28:45 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-health</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Suicides and Suicide Attempts</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">JAMA Network Open</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BMJ (Journal)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/10/multimedia/10PerinatalDepression-kqzh/10PerinatalDepression-kqzh-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Travis Dove for The New York Times</media:credit>
+        </item>
+        <item>
+            <title>Use of ADHD Drugs Surged During Pandemic, Study Finds</title>
+            <link>https://www.nytimes.com/2024/01/10/health/pandemic-adhd-drugs.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/10/health/pandemic-adhd-drugs.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/10/health/pandemic-adhd-drugs.html" rel="standout"/>
+            <description>Social media influencers and online marketing may have played a role, experts said.</description>
+            <dc:creator>Matt Richtel</dc:creator>
+            <pubDate>Wed, 10 Jan 2024 17:25:09 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-health</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Buprenorphine (Drug)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Telemedicine</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/10/science/10ADHDincrease/10ADHDincrease-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Jenny Kane/Associated Press</media:credit>
+            <media:description>During the coronavirus pandemic, prescriptions of stimulants used to treat attention deficit hyperactivity disorder rose 30 percent among people ages 20 to 39, while prescriptions of non-stimulant A.D.H.D. medications rose 81 percent.</media:description>
+        </item>
+        <item>
+            <title>‘Gas-Station Heroin’ Sold as Dietary Supplement Alarms Health Officials</title>
+            <link>https://www.nytimes.com/2024/01/10/health/gas-station-heroin-tianeptine-addiction.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/10/health/gas-station-heroin-tianeptine-addiction.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/10/health/gas-station-heroin-tianeptine-addiction.html" rel="standout"/>
+            <description>Tianeptine, found at convenience stores, at smoke shops and online, can mimic an opioid. It is among a growing class of substances that are difficult to control.</description>
+            <dc:creator>Jan Hoffman</dc:creator>
+            <pubDate>Wed, 10 Jan 2024 23:03:43 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+            <category domain="">Tianeptine</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Dietary Supplements and Herbal Remedies</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Poisoning and Poisons</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Opioids and Opiates</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Addiction (Psychology)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/03/multimedia/00Gas-StationHeroin-01-zvlc/00Gas-StationHeroin-01-zvlc-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Hannah Beier for The New York Times</media:credit>
+            <media:description>Neptune’s Fix, a shot sold at convenience stores and gas stations that contains an ingredient called tianeptine, is part of a growing class of unregulated and potentially addictive products becoming more widely available.</media:description>
+        </item>
+        <item>
+            <title>Climate Change Is Driving a Sharp Drop in Snow Levels, Study Finds</title>
+            <link>https://www.nytimes.com/2024/01/10/climate/climate-change-snowpack-decline.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/10/climate/climate-change-snowpack-decline.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/10/climate/climate-change-snowpack-decline.html" rel="standout"/>
+            <description>Parts of the Northern Hemisphere are warming enough that their prospects of future snow are rapidly declining.</description>
+            <dc:creator>Delger Erdenesanaa</dc:creator>
+            <pubDate>Fri, 12 Jan 2024 04:09:13 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Snow and Snowstorms</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Winter (Season)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature (Journal)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mankin, Justin</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gottlieb, Alexander</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2023/04/20/multimedia/10cli-snowpack-02/10cli-snowpack-02-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Erin Schaff/The New York Times</media:credit>
+            <media:description>The view from a National Oceanic and Atmospheric Administration snow survey flight above the High Sierras in March.</media:description>
+        </item>
+        <item>
+            <title>U.S. Carbon Emissions Fell in 2023 as Coal Use Tumbled to New Lows</title>
+            <link>https://www.nytimes.com/2024/01/10/climate/us-carbon-emissions-2023-climate.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/10/climate/us-carbon-emissions-2023-climate.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/10/climate/us-carbon-emissions-2023-climate.html" rel="standout"/>
+            <description>The drop was big, but emissions will need to fall three times as fast for the rest of the decade if the country wants to meet its climate goals.</description>
+            <dc:creator>Brad Plumer</dc:creator>
+            <pubDate>Wed, 10 Jan 2024 17:29:04 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Coal</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Carbon Dioxide</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rhodium Group LLC</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+            <media:content height="1333" medium="image" url="https://static01.nyt.com/images/2024/01/10/climate/cli-emissions2023/cli-emissions2023-mediumSquareAt3X.jpg" width="1333"/>
+            <media:credit>The New York Times</media:credit>
+        </item>
+        <item>
+            <title>We Are in a Big Covid Wave. But Just How Big?</title>
+            <link>https://www.nytimes.com/2024/01/10/upshot/covid-pandemic-wave.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/10/upshot/covid-pandemic-wave.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/10/upshot/covid-pandemic-wave.html" rel="standout"/>
+            <description>Wastewater data has become perhaps the best metric to track the spread of the virus in the U.S., but it’s an imperfect tool.</description>
+            <dc:creator>Francesca Paris</dc:creator>
+            <pubDate>Wed, 10 Jan 2024 10:01:41 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+            <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2024/01/09/multimedia/2024-01-06-covid-wastewater-index/2024-01-06-covid-wastewater-index-mediumSquareAt3X-v3.png" width="1000"/>
+            <media:credit>The New York Times</media:credit>
+        </item>
+        <item>
+            <title>An Ultrasound Experiment Tackles a Giant Problem in Brain Medicine</title>
+            <link>https://www.nytimes.com/2024/01/10/health/blood-brain-barrier-alzheimers-ultrsound.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/10/health/blood-brain-barrier-alzheimers-ultrsound.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/10/health/blood-brain-barrier-alzheimers-ultrsound.html" rel="standout"/>
+            <description>The effects of drugs that treat Alzheimer’s, cancer and other illnesses are often limited by the blood-brain barrier. A small study suggests a way forward.</description>
+            <dc:creator>Gina Kolata</dc:creator>
+            <pubDate>Wed, 10 Jan 2024 10:01:37 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Brain</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Ultrasonic Imaging and Sonograms</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Alzheimer's Disease</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Brain Cancer</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Aduhelm (Drug)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New England Journal of Medicine</category>
+        </item>
+        <item>
+            <title>Why Are California’s Waters Lighting Up in Blue?</title>
+            <link>https://www.nytimes.com/2024/01/09/science/blue-algae-california-bioluminescence.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/09/science/blue-algae-california-bioluminescence.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/09/science/blue-algae-california-bioluminescence.html" rel="standout"/>
+            <description>It looks like the trailer for “Avatar: The Way of Water,” but it’s a natural phenomenon. And spotting it is getting increasingly popular.</description>
+            <dc:creator>Claire Moses</dc:creator>
+            <pubDate>Wed, 10 Jan 2024 01:44:41 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Algae</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Bacteria</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Microbiology</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco Bay Area (Calif)</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/08/multimedia/08xp-blue/08xp-blue-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Allen J. Schaben/Los Angeles Times, via Getty Images</media:credit>
+            <media:description>What is that bright blue glow in the waves of Huntington Beach in California? Bioluminescent algae.</media:description>
+        </item>
+        <item>
+            <title>2023 Was Hottest Year on Record by a Lot</title>
+            <link>https://www.nytimes.com/2024/01/09/climate/2023-warmest-year-record.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/09/climate/2023-warmest-year-record.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/09/climate/2023-warmest-year-record.html" rel="standout"/>
+            <description>Month after month global temperatures didn’t just break records, they surpassed them by far. This year could be even warmer.</description>
+            <dc:creator>Raymond Zhong and Keith Collins</dc:creator>
+            <pubDate>Tue, 09 Jan 2024 15:46:13 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Copernicus Climate Change Service</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Two Thousand Twenty Three</category>
+            <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2024/01/08/multimedia/2024-01-08-year-in-heat-index/2024-01-08-year-in-heat-index-mediumSquareAt3X-v4.png" width="1000"/>
+            <media:credit>The New York Times</media:credit>
+        </item>
+        <item>
+            <title>F.D.A. Warned of Mental Side Effects from Asthma Drug, Singulair. Few Were Told.</title>
+            <link>https://www.nytimes.com/2024/01/09/health/fda-singulair-asthma-drug-warning.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/09/health/fda-singulair-asthma-drug-warning.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/09/health/fda-singulair-asthma-drug-warning.html" rel="standout"/>
+            <description>Singulair, now a generic, is still used by millions of people in the United States even after thousands of patients and dozens of studies have described harm.</description>
+            <dc:creator>Christina Jewett and Benjamin Mueller</dc:creator>
+            <pubDate>Wed, 10 Jan 2024 01:55:45 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Suicides and Suicide Attempts</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Asthma</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Allergies</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Obsessive-Compulsive Disorder</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Merck Company Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+            <category domain="">Singulair</category>
+            <category domain="">montelukast</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Johns Hopkins Center for Drug Safety and Effectiveness</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Organon Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-negative-sad</category>
+            <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2023/10/12/multimedia/XXSingulair-promo-vgkc/XXSingulair-promo-vgkc-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Niki Chan Wylie for The New York Times</media:credit>
+        </item>
+        <item>
+            <title>Protecting the Ancient Beech Trees of Romania</title>
+            <link>https://www.nytimes.com/2024/01/09/science/conservation-romania-beech-trees.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/09/science/conservation-romania-beech-trees.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/09/science/conservation-romania-beech-trees.html" rel="standout"/>
+            <description>In Romania, a walk in the woods blossomed into a mission to safeguard centuries-old beeches and the history that shaped them.</description>
+            <dc:creator>Nicholas J. R. White and Alan Burdick</dc:creator>
+            <pubDate>Tue, 09 Jan 2024 05:01:23 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Eco-Tourism</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">National Parks, Monuments and Seashores</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Trees and Shrubs</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">3-D Devices and Effects</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Carpathian Mountains</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/09/multimedia/09SCI-TREES-01-bvtj/09SCI-TREES-01-bvtj-mediumSquareAt3X.jpg" width="1800"/>
+        </item>
+        <item>
+            <title>Moon Lander Malfunctions After Launch, Raising Questions for NASA</title>
+            <link>https://www.nytimes.com/2024/01/08/science/nasa-moon-lander-malfunction-peregrine.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/08/science/nasa-moon-lander-malfunction-peregrine.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/08/science/nasa-moon-lander-malfunction-peregrine.html" rel="standout"/>
+            <description>After a flawless launch to orbit, the privately built robotic Peregrine lander is unlikely to reach the lunar surface because of a failure in its propulsion system.</description>
+            <dc:creator>Kenneth Chang</dc:creator>
+            <pubDate>Mon, 08 Jan 2024 21:36:28 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Astrobotic Technology Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Moon</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
+            <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/01/08/multimedia/08moon-lander-qmtg/08moon-lander-qmtg-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>NASA, via Agence France-Press — Getty Images</media:credit>
+            <media:description>The Astrobotic Peregrine lunar lander during preparations for launch in Florida in November.</media:description>
+        </item>
+        <item>
+            <title>How 2024 Will Be A.I.’s ‘Leap Forward’</title>
+            <link>https://www.nytimes.com/2024/01/08/technology/ai-robots-chatbots-2024.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/08/technology/ai-robots-chatbots-2024.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/08/technology/ai-robots-chatbots-2024.html" rel="standout"/>
+            <description>A.I. is set to advance at a rapid rate, becoming more powerful and spreading into the physical world.</description>
+            <dc:creator>Cade Metz</dc:creator>
+            <pubDate>Mon, 08 Jan 2024 10:01:08 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Two Thousand Twenty Four</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Altman, Samuel H</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Manyika, James</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cohere Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/09/business/00-ai-progress/00-ai-progress-mediumSquareAt3X.png" width="1800"/>
+            <media:credit>Victor Arce</media:credit>
+        </item>
+        <item>
+            <title>Vulcan Rocket Aces Its First Launch</title>
+            <link>https://www.nytimes.com/2024/01/08/science/vulcan-rocket-launch-moon.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/08/science/vulcan-rocket-launch-moon.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/08/science/vulcan-rocket-launch-moon.html" rel="standout"/>
+            <description>Despite problems with one of its payloads, the new launcher’s flight was flawless, showing the potential of several vehicles that could chip away at SpaceX’s dominance.</description>
+            <dc:creator>Kenneth Chang</dc:creator>
+            <pubDate>Tue, 09 Jan 2024 19:10:23 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Astrobotic Technology Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Launch Alliance</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Moon</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/08/multimedia/08Vulcan-zvgq/08Vulcan-zvgq-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Chandan Khanna/Agence France-Presse — Getty Images</media:credit>
+            <media:description>United Launch Alliance’s (ULA) Vulcan Centaur, lifting off from Cape Canaveral, Florida, on Monday.</media:description>
+        </item>
+        <item>
+            <title>What to Know About the ULA Vulcan Rocket Mission</title>
+            <link>https://www.nytimes.com/2024/01/07/science/nasa-vulcan-moon-launch.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/07/science/nasa-vulcan-moon-launch.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/07/science/nasa-vulcan-moon-launch.html" rel="standout"/>
+            <description>Here’s what you need to know about United Launch Alliance and the robotic lunar spacecraft it is sending to orbit.</description>
+            <dc:creator>Kenneth Chang</dc:creator>
+            <pubDate>Mon, 08 Jan 2024 22:27:23 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Launch Alliance</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Astrobotic Technology Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Space Force</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Moon</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/07/us/politics/07vulcan/07vulcan-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>United Launch Alliance</media:credit>
+            <media:description>The United Launch Alliance Vulcan Centaur rocket on Sunday near dusk.</media:description>
+        </item>
+        <item>
+            <title>The Mystery of the Coin That Shouldn’t Exist</title>
+            <link>https://www.nytimes.com/2024/01/07/science/dinero-peru-coin-1899-counterfeit.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/07/science/dinero-peru-coin-1899-counterfeit.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/07/science/dinero-peru-coin-1899-counterfeit.html" rel="standout"/>
+            <description>Scientists recently analyzed a Peruvian 10-cent piece with an unexplained origin.</description>
+            <dc:creator>Katherine Kornei</dc:creator>
+            <pubDate>Sun, 07 Jan 2024 10:01:58 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Currency</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Counterfeit Money and Financial Instruments</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Peru</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Numismatics</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Chemistry</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Heritage Science (Journal)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+        </item>
+        <item>
+            <title>The Income Gap Jeopardizing Retirement for Millions</title>
+            <link>https://www.nytimes.com/2024/01/06/health/retirement-income-middle-class.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/06/health/retirement-income-middle-class.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/06/health/retirement-income-middle-class.html" rel="standout"/>
+            <description>Americans in the lower middle class are losing ground financially, researchers have found.</description>
+            <dc:creator>Paula Span</dc:creator>
+            <pubDate>Sat, 06 Jan 2024 13:38:08 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Retirement</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Income</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Security (US)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+            <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/01/09/multimedia/06SCI-SPAN-qpzw/06SCI-SPAN-qpzw-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Jim Wilson/The New York Times</media:credit>
+            <media:description>Monique Louvigny, who lives in Vallejo, Calif., was laid off at age 57 and now freelances as an events coordinator. Her income has fallen to less than $30,000 a year. </media:description>
+        </item>
+        <item>
+            <title>Can $500 Million Save This Glacier?</title>
+            <link>https://www.nytimes.com/2024/01/06/magazine/glacier-engineering-sea-level-rise.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/06/magazine/glacier-engineering-sea-level-rise.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/06/magazine/glacier-engineering-sea-level-rise.html" rel="standout"/>
+            <description>A bold engineering project might show a way to slow sea-level rise — and bring new imagination to the fight against climate change.</description>
+            <dc:creator>Jon Gertner</dc:creator>
+            <pubDate>Sun, 07 Jan 2024 17:34:22 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Glaciers</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Geology</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greenland</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Antarctic Regions</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arctic Regions</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moore, John C (Scientist)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Engineering and Engineers</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/07/magazine/07mag-glaciers/07mag-glaciers-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Olaf Otto Becker for The New York Times</media:credit>
+            <media:description>The Jakobshavn glacier in Greenland. Glaciologists have identified it as one of the fastest-deteriorating glaciers in the world.</media:description>
+        </item>
+        <item>
+            <title>Galaxies in the Early Universe Were Shaped Like Bananas, Study Suggests</title>
+            <link>https://www.nytimes.com/2024/01/05/science/space/astronomy-galaxies-bananas.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2024/01/05/science/space/astronomy-galaxies-bananas.html</guid>
+            <atom:link href="https://www.nytimes.com/2024/01/05/science/space/astronomy-galaxies-bananas.html" rel="standout"/>
+            <description>Images from the Webb telescope suggest that newborn galaxies look weirder than expected. Exactly how screwy was physics at the dawn of time?</description>
+            <dc:creator>Dennis Overbye</dc:creator>
+            <pubDate>Mon, 08 Jan 2024 19:08:42 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">James Webb Space Telescope</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Milky Way Galaxy</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Telescopes and Observatories</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Physics</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Dark Matter (Astronomy)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Stars and Galaxies</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+        </item>
+    </channel>
+</rss>

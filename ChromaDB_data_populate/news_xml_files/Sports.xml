@@ -1,0 +1,116 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+    <channel>
+        <title>NYT > Sports</title>
+        <link>https://www.nytimes.com/section/sports</link>
+        <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml" rel="self" type="application/rss+xml"/>
+        <description/>
+        <language>en-us</language>
+        <copyright>Copyright 2024 The New York Times Company</copyright>
+        <lastBuildDate>Fri, 12 Jan 2024 18:32:57 +0000</lastBuildDate>
+        <pubDate>Thu, 11 Jan 2024 19:16:05 +0000</pubDate>
+        <image>
+            <title>NYT > Sports</title>
+            <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+            <link>https://www.nytimes.com/section/sports</link>
+        </image>
+        <item>
+            <title>Inside Bill Belichick’s Downfall After 24 Years and 6 Titles With the Patriots</title>
+            <link>https://theathletic.com/5180457/2024/01/11/bill-belichick-legacy-patriots/</link>
+            <guid isPermaLink="true">https://theathletic.com/5180457/2024/01/11/bill-belichick-legacy-patriots/</guid>
+            <atom:link href="https://theathletic.com/5180457/2024/01/11/bill-belichick-legacy-patriots/" rel="standout"/>
+            <description>Why New England owner Robert Kraft said goodbye to the most productive coach in N.F.L. history.</description>
+            <dc:creator>The New York Times</dc:creator>
+            <pubDate>Thu, 11 Jan 2024 19:16:05 +0000</pubDate>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/02/01/multimedia/tamc-011124-belichick-downfall/tamc-011124-belichick-downfall-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Winslow Townson/Getty Images</media:credit>
+        </item>
+        <item>
+            <title>ESPN Used Fake Names to Secure Emmys for ‘College GameDay’ Stars</title>
+            <link>https://theathletic.com/5193316/2024/01/11/espn-emmys-fake-names-college-gameday/</link>
+            <guid isPermaLink="true">https://theathletic.com/5193316/2024/01/11/espn-emmys-fake-names-college-gameday/</guid>
+            <atom:link href="https://theathletic.com/5193316/2024/01/11/espn-emmys-fake-names-college-gameday/" rel="standout"/>
+            <description>The network returned 37 Emmy statues after an investigation found that it had falsified information to give awards to on-air talent ineligible to receive them.</description>
+            <dc:creator>The New York Times</dc:creator>
+            <pubDate>Thu, 11 Jan 2024 19:16:05 +0000</pubDate>
+            <media:content height="883" medium="image" url="https://static01.nyt.com/images/2024/01/11/multimedia/11ESPN-EMMY-ALERT2-tqjl/11ESPN-EMMY-ALERT2-tqjl-mediumSquareAt3X.jpg" width="882"/>
+            <media:credit>Richard Shotwell/Invision, via Associated Press</media:credit>
+        </item>
+        <item>
+            <title>Nick Saban Retires After 17 Years at Alabama</title>
+            <link>https://theathletic.com/5193220/2024/01/10/nick-saban-retiring-alabama/</link>
+            <guid isPermaLink="true">https://theathletic.com/5193220/2024/01/10/nick-saban-retiring-alabama/</guid>
+            <atom:link href="https://theathletic.com/5193220/2024/01/10/nick-saban-retiring-alabama/" rel="standout"/>
+            <description>Saban, 72, will leave the Crimson Tide as the only college football coach in the poll era to win seven national titles, including one at L.S.U.</description>
+            <dc:creator>The New York Times</dc:creator>
+            <pubDate>Thu, 11 Jan 2024 19:16:05 +0000</pubDate>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/10/multimedia/tamc-011024-nick-saban-retires/tamc-011024-nick-saban-retires-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Kevin C. Cox/Getty Images</media:credit>
+        </item>
+        <item>
+            <title>Pete Carroll Won’t Return as Seahawks Coach</title>
+            <link>https://theathletic.com/5193237/2024/01/10/pete-carroll-not-returning-as-seahawks-coach-will-remain-with-franchise-as-advisor/</link>
+            <guid isPermaLink="true">https://theathletic.com/5193237/2024/01/10/pete-carroll-not-returning-as-seahawks-coach-will-remain-with-franchise-as-advisor/</guid>
+            <atom:link href="https://theathletic.com/5193237/2024/01/10/pete-carroll-not-returning-as-seahawks-coach-will-remain-with-franchise-as-advisor/" rel="standout"/>
+            <description>After 14 seasons and a Super Bowl win, Carroll will remain with the franchise as an adviser.</description>
+            <dc:creator>The New York Times</dc:creator>
+            <pubDate>Thu, 11 Jan 2024 19:16:05 +0000</pubDate>
+            <media:content height="960" medium="image" url="https://static01.nyt.com/images/2024/01/10/multimedia/tamc-011024-pete-carroll/tamc-011024-pete-carroll-mediumSquareAt3X.jpg" width="960"/>
+            <media:credit>Jennifer Carroll/Getty Images</media:credit>
+        </item>
+        <item>
+            <title>Michigan’s Title Is a Tale of Two Narratives</title>
+            <link>https://theathletic.com/5191000/2024/01/10/michigan-football-cfp-national-championship/</link>
+            <guid isPermaLink="true">https://theathletic.com/5191000/2024/01/10/michigan-football-cfp-national-championship/</guid>
+            <atom:link href="https://theathletic.com/5191000/2024/01/10/michigan-football-cfp-national-championship/" rel="standout"/>
+            <description>Michigan is an awkward champion for those who prefer their heroes unblemished, our columnist writes.</description>
+            <dc:creator>The New York Times</dc:creator>
+            <pubDate>Thu, 11 Jan 2024 19:16:05 +0000</pubDate>
+            <media:content height="615" medium="image" url="https://static01.nyt.com/images/2024/01/10/multimedia/tamc-011024-michigan/tamc-011024-michigan-mediumSquareAt3X-v2.jpg" width="615"/>
+            <media:credit>Steve Limentani /ISI Photos via Getty Images</media:credit>
+        </item>
+        <item>
+            <title>Who Will Make the Baseball Hall of Fame? Our Experts Reveal Their Ballots.</title>
+            <link>https://theathletic.com/5188034/2024/01/10/baseball-hall-of-fame-ballots-2024/</link>
+            <guid isPermaLink="true">https://theathletic.com/5188034/2024/01/10/baseball-hall-of-fame-ballots-2024/</guid>
+            <atom:link href="https://theathletic.com/5188034/2024/01/10/baseball-hall-of-fame-ballots-2024/" rel="standout"/>
+            <description>At least one player appears to be headed for first-ballot election.</description>
+            <dc:creator>The New York Times</dc:creator>
+            <pubDate>Thu, 11 Jan 2024 19:16:05 +0000</pubDate>
+            <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/01/10/multimedia/tamc-011024-adrian-beltre/tamc-011024-adrian-beltre-mediumSquareAt3X.jpg" width="1800"/>
+            <media:credit>Jesse Beals/Icon SMI, via Icon Sport Media, via Getty Images</media:credit>
+        </item>
+        <item>
+            <title>How Novak Djokovic Changed His Game to Become the GOAT</title>
+            <link>https://theathletic.com/5177051/2024/01/10/australia-novak-djokovic-open/</link>
+            <guid isPermaLink="true">https://theathletic.com/5177051/2024/01/10/australia-novak-djokovic-open/</guid>
+            <atom:link href="https://theathletic.com/5177051/2024/01/10/australia-novak-djokovic-open/" rel="standout"/>
+            <description>He has undoubtedly become the best men’s tennis player of all time. This is the data that shows how he’s done it.</description>
+            <dc:creator>The New York Times</dc:creator>
+            <pubDate>Thu, 11 Jan 2024 19:16:05 +0000</pubDate>
+            <media:content height="959" medium="image" url="https://static01.nyt.com/images/2024/01/10/multimedia/tamc-011024-australia-novak-djokovic-open/tamc-011024-australia-novak-djokovic-open-mediumSquareAt3X.jpg" width="959"/>
+            <media:credit>Manan Vatsyayana/AFP via Getty Images</media:credit>
+        </item>
+        <item>
+            <title>The Family of a Popular Soccer Player Wants a New Investigation Into Her Death</title>
+            <link>https://theathletic.com/5137007/2024/01/08/maddy-cusack-investigation-special-report/</link>
+            <guid isPermaLink="true">https://theathletic.com/5137007/2024/01/08/maddy-cusack-investigation-special-report/</guid>
+            <atom:link href="https://theathletic.com/5137007/2024/01/08/maddy-cusack-investigation-special-report/" rel="standout"/>
+            <description>Maddy Cusack’s death in September sent shockwaves through the sport.</description>
+            <dc:creator>The New York Times</dc:creator>
+            <pubDate>Thu, 11 Jan 2024 19:16:05 +0000</pubDate>
+            <media:content height="1349" medium="image" url="https://static01.nyt.com/images/2024/01/08/multimedia/tamc-010824-maddy-cusack-investigation-special-report/tamc-010824-maddy-cusack-investigation-special-report-mediumSquareAt3X.jpg" width="1349"/>
+            <media:credit>George Wood/Getty Images</media:credit>
+        </item>
+        <item>
+            <title>Brian Flores Isn’t Afraid and Isn’t Looking Back. Is the Rest of the N.F.L.?</title>
+            <link>https://theathletic.com/5186510/2024/01/09/brian-flores-vikings-nfl-coaching-lawsuit/</link>
+            <guid isPermaLink="true">https://theathletic.com/5186510/2024/01/09/brian-flores-vikings-nfl-coaching-lawsuit/</guid>
+            <atom:link href="https://theathletic.com/5186510/2024/01/09/brian-flores-vikings-nfl-coaching-lawsuit/" rel="standout"/>
+            <description>Flores knew his lawsuit could jeopardize opportunities. A “wild” journey and recent success has him focused on future possibilities.</description>
+            <dc:creator>The New York Times</dc:creator>
+            <pubDate>Thu, 11 Jan 2024 19:16:05 +0000</pubDate>
+            <media:content height="1363" medium="image" url="https://static01.nyt.com/images/2024/01/08/the-athletic/tamc-010924-A1-Brian-Flores-1704768785866/tamc-010924-A1-Brian-Flores-1704768785866-mediumSquareAt3X.jpg" width="1364"/>
+            <media:credit>Stephen Maturen/Getty Images</media:credit>
+        </item>
+    </channel>
+</rss>
