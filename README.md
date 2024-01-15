@@ -1,5 +1,5 @@
 # Retrieval-Augmented-Generation-for-news
-![img.png](img.png)
+![img.png](assets/img.png)
 A RAG (Retrival Augmented Generation) based fully open source software which provides summaries of related news
 articles built using ChromaDB vector database, mixtral-8x7b-instruct-v0.1 LLM (through Replicate AI), New York Times web scraper, dhivyeshrk/bart-large-cnn-samsum Fine-Tuned model for text summarization and sentence-transformers/sentence-t5-base embeddings from HuggingFace.
 

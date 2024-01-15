@@ -5,26 +5,39 @@ from get_summary import TextSummarizationPipeline
 from chromadb.utils import embedding_functions
 import chromadb
 
-def get_linksDB(collection_name, user_prompt):
+
+def get_linksDB(collection_name, prompt) -> list:
+    """
+    Fetches related news document links from ChromaDB after performing a semantic search.
+    :param collection_name: Name of the related collection
+    :param prompt: User prompt to perform semantic search with chromadb
+    :return:
+    """
     client = chromadb.PersistentClient(path="ChromaDB_data_populate/DataBase/data")
     sentence_transformer_ef = embedding_functions.SentenceTransformerEmbeddingFunction(model_name="sentence-transformers/sentence-t5-base")
     collection_name = collection_name.capitalize()
-    # Get collections for each news type
+    # Get collections for each news type (collection corresponds to table)
     db_collection = client.get_collection(name=f"{collection_name}", embedding_function=sentence_transformer_ef)
 
     result = db_collection.query(
-        query_texts=[user_prompt],
+        query_texts=[prompt],
         n_results=2
     )
-    links = []
+    related_links = []
     for i in result['metadatas'][0]:
-        links.append(i['link'])
+        related_links.append(i['link'])
 
-    return links
+    return related_links
 
 
-def categorize(prompt : str):
-    api = ReplicateAPI(model_name='mistralai/mixtral-8x7b-instruct-v0.1')
+def categorize(prompt: str, model: str) -> str:
+    """
+    Categorizes the prompt using specified LLM from ReplicateAI API
+    :param model: Name of LLM
+    :param prompt: user_prompt
+    :return: categorized category
+    """
+    api = ReplicateAPI(model_name=model)
     output = api.run_model(prompt)
     output = [element.lower().strip() for element in output]
     categories = ['technology', 'science', 'health', 'sports']
@@ -32,7 +45,7 @@ def categorize(prompt : str):
     if relevant_category:
         return relevant_category
     else:
-        return None
+        return ""
 
 
 if __name__ == '__main__':
@@ -40,7 +53,8 @@ if __name__ == '__main__':
     user_prompt = input("Please enter keywords to find related news :   ")
 
     # categorize the prompt
-    prompt_category = categorize(user_prompt)
+    model_name = 'mistralai/mixtral-8x7b-instruct-v0.1'
+    prompt_category = categorize(user_prompt, model_name)
     print(f"Your prompt was categorized under {prompt_category}")
 
     # Highly unlikely case
@@ -49,37 +63,17 @@ if __name__ == '__main__':
         sys.exit()
 
     outputs = []
+    # Get the links
     links = get_linksDB(prompt_category, user_prompt)
     scraper = NYTimesAPI()
+    # Summarize the Text
     summarizer = TextSummarizationPipeline()
     for link in links:
         info = scraper.get_response(link)
         outputs.append(summarizer.generate_summary(info))
 
+    # Print the outputs
     print("Here are AI generated summaries of some related news articles : ")
     for out in outputs:
         print(out[0]['generated_text'])
         print("-----------------------")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Obtain news description from user
-# categorize the prompt
-# perform similarity search on the database
-# get the url
-# web scrape
-# get_summary
