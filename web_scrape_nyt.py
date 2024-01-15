@@ -1,12 +1,23 @@
 import requests as req
+import envs
+
 
 class NYTimesAPI:
+    """
+    High Level API to access New York Times news from the official NYTimes API.
+    The API only supports extraction of the most prominent lead-paragraph.
+    """
     def __init__(self):
-        self.api_key = 'COStbacR9mDSMpaeYcrvzD3yj5xql6V3'
-        self.base_url = 'https://api.nytimes.com/svc/search/v2/articlesearch.json'
+        self.api_key = envs.NYT_API  # Set the API KEY
+        self.base_url = 'https://api.nytimes.com/svc/search/v2/articlesearch.json'  # default base url
 
-    def get_response(self, keyword):
-        url = f'{self.base_url}?q={keyword}&api-key={self.api_key}'
+    def get_response(self, news_topic) -> list:
+        """
+        Fetches the news.
+        :param news_topic: supports news_topic and urls
+        :return: abstract + description + lead_paragraph
+        """
+        url = f'{self.base_url}?q={news_topic}&api-key={self.api_key}'
         response = req.get(url).json()
         if 'response' in response and 'docs' in response['response']:
             docs = response['response']['docs']
@@ -15,17 +26,17 @@ class NYTimesAPI:
             lead_paragraph = docs[0].get('lead_paragraph', '')
             result = abstract + ' ' + snippet + ' ' + lead_paragraph
             return result
-        return None
+        return []
 
 
 if __name__ == "__main__":
-    # Instantiate the NYTimesAPI class
     nytimes_api = NYTimesAPI()
 
     # Specify the keyword for the article search
     keyword = 'https://www.nytimes.com/2024/01/12/business/arena-bioworks-scientists-harvard-mit.html'
 
     # Get and print the concatenated information from the response
+
     concatenated_info = nytimes_api.get_response(keyword)
     if concatenated_info:
         print(concatenated_info)
