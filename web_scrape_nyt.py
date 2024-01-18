@@ -21,6 +21,7 @@ class NYTimesAPI:
         response = req.get(url).json()
         if 'response' in response and 'docs' in response['response']:
             docs = response['response']['docs']
+            print(docs)
             abstract = docs[0].get('abstract', '')
             snippet = docs[0].get('snippet', '')
             lead_paragraph = docs[0].get('lead_paragraph', '')
@@ -33,7 +34,7 @@ if __name__ == "__main__":
     nytimes_api = NYTimesAPI()
 
     # Specify the keyword for the article search
-    keyword = 'https://www.nytimes.com/2024/01/12/business/arena-bioworks-scientists-harvard-mit.html'
+    keyword = 'https://theathletic.com/5186510/2024/01/09/brian-flores-vikings-nfl-coaching-lawsuit/'
 
     # Get and print the concatenated information from the response
 
