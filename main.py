@@ -60,7 +60,6 @@ def get_news(url: str) -> list:
         return par
 
 
-
 if __name__ == '__main__':
 
     user_prompt = input("Please enter keywords to find related news :   ")
