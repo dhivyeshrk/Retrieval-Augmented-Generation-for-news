@@ -5,11 +5,8 @@ from bs4 import BeautifulSoup
 class WebScraper:
     def __init__(self, url, headers=None):
         self.url = url
-        # Mimic a browser to bypass the wall
-        self.headers = headers or {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
-        }
 
+    @staticmethod
     def extract_paragraphs(self, html_content):
         if html_content:
             soup = BeautifulSoup(html_content, 'html.parser')
@@ -19,7 +16,7 @@ class WebScraper:
             return []
 
     def fetch_page(self):
-        response = requests.get(self.url, headers=self.headers)
+        response = requests.get(self.url)
         if response.status_code == 200:
             return response.text
         else:
@@ -27,10 +24,10 @@ class WebScraper:
             return None
 
     def fetch_and_extract_p(self):
-        response = requests.get(self.url, headers=self.headers)
+        response = requests.get(self.url)
         if response.status_code == 200:
-            par =  self.extract_paragraphs(response.text)
-            return " ".join(par)
+            paragraph = self.extract_paragraphs(self, response.text)
+            return " ".join(paragraph)
         else:
             print(f"Failed to fetch the page. Status code: {response.status_code}")
             return None
@@ -38,7 +35,7 @@ class WebScraper:
 
 if __name__ == "__main__":
     # Example use-case
-    url = 'https://www.nytimes.com/2024/01/11/health/gaza-israel-hunger-starvation.html'
+    url = 'https://theathletic.com/5193237/2024/01/10/pete-carroll-not-returning-as-seahawks-coach-will-remain-with-franchise-as-advisor/'
 
     scraper = WebScraper(url)
     par = scraper.fetch_and_extract_p()

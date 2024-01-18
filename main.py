@@ -1,6 +1,7 @@
 import sys
 from categorize_prompt import ReplicateAPI
 from web_scrape_nyt import NYTimesAPI
+from web_scrape_py import WebScraper
 from get_summary import TextSummarizationPipeline
 from chromadb.utils import embedding_functions
 import chromadb
@@ -48,6 +49,17 @@ def categorize(prompt: str, model: str) -> str:
         return ""
 
 
+def get_news(url: str) -> list:
+    if 'www.nytimes.com' in url:
+        scraper = NYTimesAPI()
+        news = scraper.get_response()
+        return news
+    else:
+        scraper = WebScraper(url)
+        par = scraper.fetch_and_extract_p()
+        return par
+
+
 if __name__ == '__main__':
 
     user_prompt = input("Please enter keywords to find related news :   ")
@@ -65,11 +77,12 @@ if __name__ == '__main__':
     outputs = []
     # Get the links
     links = get_linksDB(prompt_category, user_prompt)
-    scraper = NYTimesAPI()
+    # scraper = NYTimesAPI()
     # Summarize the Text
     summarizer = TextSummarizationPipeline()
     for link in links:
-        info = scraper.get_response(link)
+        # info = scraper.get_response(link)
+        info = get_news(link)
         outputs.append(summarizer.generate_summary(info))
 
     # Print the outputs

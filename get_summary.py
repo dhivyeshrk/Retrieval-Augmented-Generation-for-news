@@ -6,6 +6,9 @@ class TextSummarizationPipeline:
         self.pipe = pipeline("text2text-generation", model=model_name)
 
     def generate_summary(self, input_text):
+        words = input_text.split(" ")
+        if len(words) > 500:
+            input_text = " ".join(words[:500])
         return self.pipe(input_text)
 
 
