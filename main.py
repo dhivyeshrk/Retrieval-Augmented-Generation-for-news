@@ -14,7 +14,7 @@ def get_linksDB(collection_name, prompt) -> list:
     :param prompt: User prompt to perform semantic search with chromadb
     :return:
     """
-    client = chromadb.PersistentClient(path="Retrieval-Augmented-Generation-for-news-Final/ChromaDB_data_populate/DataBase/data")
+    client = chromadb.PersistentClient(path="Retrieval-Augmented-Generation-for-news/ChromaDB_data_populate/DataBase/data")
     sentence_transformer_ef = embedding_functions.SentenceTransformerEmbeddingFunction(model_name="sentence-transformers/sentence-t5-base")
     collection_name = collection_name.capitalize()
     # Get collections for each news type (collection corresponds to table)

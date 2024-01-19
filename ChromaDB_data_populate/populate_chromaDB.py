@@ -20,7 +20,7 @@ def add_embeddings(collection_name, xml_filepath):
         )
 
 if __name__ == "__main__":
-    client = chromadb.PersistentClient(path="Retrieval-Augmented-Generation-for-news-Final/ChromaDB_data_populate/DataBase/data")
+    client = chromadb.PersistentClient(path="Retrieval-Augmented-Generation-for-news/ChromaDB_data_populate/DataBase/data")
     sentence_transformer_ef = embedding_functions.SentenceTransformerEmbeddingFunction(model_name="sentence-transformers/sentence-t5-base")
 
     health_col = client.get_or_create_collection(name="Health", embedding_function=sentence_transformer_ef)
@@ -28,7 +28,7 @@ if __name__ == "__main__":
     sports_col = client.get_or_create_collection(name="Sports", embedding_function=sentence_transformer_ef)
     tech_col = client.get_or_create_collection(name="Technology", embedding_function=sentence_transformer_ef)
 
-    path = "Retrieval-Augmented-Generation-for-news-Final/ChromaDB_data_populate/news_xml_files"
+    path = "Retrieval-Augmented-Generation-for-news/ChromaDB_data_populate/news_xml_files"
 
     add_embeddings(health_col, path + '/Health.xml')
     add_embeddings(science_col, path + '/Science.xml')
